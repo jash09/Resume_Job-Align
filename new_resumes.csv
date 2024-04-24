@@ -1,0 +1,461 @@
+file_name,resume_text,resume_json,Job Description 1,Job Description 2
+Resume_Jash_09_SDE.pdf,"Jash Shah      Baltimore, MD|+1 (667) 600-9472 |jshah48@jh.edu|github.com/jash09|www.linkedin.com/in/jashshah09  EDUCATION Johns Hopkins University, USA                                                                                                      August 2023 – May 2025(Expected) Master of Science in Engineering in Computer Science Relevant Courses – Algorithms, Machine Translation, Natural Language Processing                                                                                                                          University of Mumbai, India                                                                                                                           August 2018 – July 2022 Bachelor of Technology in Information Technology           (CGPA 8.81/10) Relevant Courses - Data Structures and Algorithms, Operating Systems, Cloud Computing, Object Oriented Programming, DevOps.  TECHNICAL SKILLS AND CERTIFICATIONS• Programming languages - Python, C++, C, Java, JavaScript, HTML, CSS, PHP, Shell. • Tools, technologies, and frameworks - Scikit-learn, Pandas, NumPy, Matplotlib, NLTK, TensorFlow, Django, PyTorch, Keras, OpenCV, Bootstrap, Android Studio, Flutter, ReactJS, Docker, Flask, AWS(EC2), Git, JIRA, Agile, Scrum, Linux, MS Excel. • Databases and BI tools – MySQL, PostgreSQL, MongoDB, AWS(S3), GCP, Tableau, PowerBI, Grafana. • Certifications - Data Science and Deep Learning Specialization offered on Coursera, and Android App Development offered on Udemy.  PROFESSIONAL EXPERIENCE The Johns Hopkins University | Lead Course Assistant – Gateway Computing: Python                                                   August 2023 – Present • Mentoring, supporting, and helping students with coursework in the classroom and conducting quizzes and project discussion classes. • Reviewing, editing, and grading student assessments and modules and helping with teaching logistics.  Forcepoint, Mumbai, India | Software Engineer - I                                                                           July 2022 – June 2023 • Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity. • Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy. • Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%.  • Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.   Tech Mahindra, Mumbai, India | Data Analyst intern                                                                  June 2021 – October 2021 • Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users. • Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.  InVideo, Mumbai, India | Data Science intern                                                               November 2020 – April 2021 • Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users. • Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.  PROJECTS  Crypto-currency Investment Scorer | Python, ML, NLP, Yahoo Finance API, Tweepy API, Flask | [GitHub] • Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets. • Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.  A music web-app | ReactJS, Material-UI, Indexed DB, and YouTube API | [GitHub] • Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API. • Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.  Covid-19 Outbreak Prediction| Python, Scikit-learn, WebPlotDigitizer | [paper link] • Implemented and fine-tuned time-series forecasting models like ARIMA, ARMA and Holt Winters Exponential Smoothing for predicting the number of Covid-19 cases for next 5 days for 10 most densely populated countries. • Obtained highest accuracy of 99.93% for one country and average accuracy of 87%.  A Method for Waste Segregation using Convolutional Neural Networks | Python, TensorFlow and FastAI | [paper link] • Engineered a custom CNN model that gave an accuracy of 94.9% and performed a comparative study of models such as VGG16 and ResNet-34 for classification of waste as organic and recyclable.  PUBLICATIONS• ""Bitcoin Investment Classifier using Machine Learning and Sentimental Analysis,"" ICICICT 2022. Published in IEEE Xplore [paper link]. • ""A Method for Waste Segregation using Convolutional Neural Networks,"" ICAECT 2022. Published in IEEE Xplore [paper link]. • ""Outbreak Prediction of COVID-19 for Dense and Populated Countries Using ML"". Ann Data. Sci. 8, 1–19 (2021) [paper link]. • ""Distributed Deep Learning and its Application in Geospatial Analytics"". CRC Press, Taylor & Francis Group [book chapter]. ","{
+  ""name"": ""Jash Shah"",
+  ""summary"": null,
+  ""phone"": ""+1 (667) 600-9472"",
+  ""email"": ""jshah48@jh.edu"",
+  ""media"": {
+    ""linkedin"": ""www.linkedin.com/in/jashshah09"",
+    ""github"": ""github.com/jash09"",
+    ""devpost"": null,
+    ""medium"": null,
+    ""leetcode"": null,
+    ""dagshub"": null,
+    ""kaggle"": null,
+    ""instagram"": null
+  },
+  ""education"": [
+    {
+      ""degree"": ""Master of Science in Engineering in Computer Science"",
+      ""university"": ""Johns Hopkins University, USA"",
+      ""from"": ""August 2023"",
+      ""to"": ""May 2025(Expected)"",
+      ""grade"": null,
+      ""coursework"": [
+        ""Algorithms"",
+        ""Machine Translation"",
+        ""Natural Language Processing""
+      ]
+    },
+    {
+      ""degree"": ""Bachelor of Technology in Information Technology"",
+      ""university"": ""University of Mumbai, India"",
+      ""from"": ""August 2018"",
+      ""to"": ""July 2022"",
+      ""grade"": ""8.81/10"",
+      ""coursework"": [
+        ""Data Structures and Algorithms"",
+        ""Operating Systems"",
+        ""Cloud Computing"",
+        ""Object Oriented Programming"",
+        ""DevOps""
+      ]
+    }
+  ],
+  ""skill_section"": [
+    {
+      ""name"": ""Programming languages"",
+      ""skills"": [
+        ""Python"",
+        ""C++"",
+        ""C"",
+        ""Java"",
+        ""JavaScript"",
+        ""HTML"",
+        ""CSS"",
+        ""PHP"",
+        ""Shell""
+      ]
+    },
+    {
+      ""name"": ""Tools, technologies, and frameworks"",
+      ""skills"": [
+        ""Scikit-learn"",
+        ""Pandas"",
+        ""NumPy"",
+        ""Matplotlib"",
+        ""NLTK"",
+        ""TensorFlow"",
+        ""Django"",
+        ""PyTorch"",
+        ""Keras"",
+        ""OpenCV"",
+        ""Bootstrap"",
+        ""Android Studio"",
+        ""Flutter"",
+        ""ReactJS"",
+        ""Docker"",
+        ""Flask"",
+        ""AWS(EC2)"",
+        ""Git"",
+        ""JIRA"",
+        ""Agile"",
+        ""Scrum"",
+        ""Linux"",
+        ""MS Excel""
+      ]
+    },
+    {
+      ""name"": ""Databases and BI tools"",
+      ""skills"": [
+        ""MySQL"",
+        ""PostgreSQL"",
+        ""MongoDB"",
+        ""AWS(S3)"",
+        ""GCP"",
+        ""Tableau"",
+        ""PowerBI"",
+        ""Grafana""
+      ]
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""role"": ""Lead Course Assistant – Gateway Computing: Python"",
+      ""company"": ""The Johns Hopkins University"",
+      ""from"": ""August 2023"",
+      ""to"": ""Present"",
+      ""description"": [
+        ""Mentoring, supporting, and helping students with coursework in the classroom and conducting quizzes and project discussion classes."",
+        ""Reviewing, editing, and grading student assessments and modules and helping with teaching logistics.""
+      ]
+    },
+    {
+      ""role"": ""Software Engineer - I"",
+      ""company"": ""Forcepoint, Mumbai, India"",
+      ""from"": ""July 2022"",
+      ""to"": ""June 2023"",
+      ""description"": [
+        ""Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity."",
+        ""Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy."",
+        ""Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%."",
+        ""Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.""
+      ]
+    },
+    {
+      ""role"": ""Data Analyst intern"",
+      ""company"": ""Tech Mahindra, Mumbai, India"",
+      ""from"": ""June 2021"",
+      ""to"": ""October 2021"",
+      ""description"": [
+        ""Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users."",
+        ""Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.""
+      ]
+    },
+    {
+      ""role"": ""Data Science intern"",
+      ""company"": ""InVideo, Mumbai, India"",
+      ""from"": ""November 2020"",
+      ""to"": ""April 2021"",
+      ""description"": [
+        ""Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users."",
+        ""Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.""
+      ]
+    }
+  ],
+  ""projects"": [
+    {
+      ""name"": ""Crypto-currency Investment Scorer"",
+      ""type"": null,
+      ""link"": ""[GitHub]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets."",
+        ""Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.""
+      ]
+    },
+    {
+      ""name"": ""A music web-app"",
+      ""type"": null,
+      ""link"": ""[GitHub]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API."",
+        ""Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.""
+      ]
+    },
+    {
+      ""name"": ""Covid-19 Outbreak Prediction"",
+      ""type"": null,
+      ""link"": ""[paper link]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Implemented and fine-tuned time-series forecasting models like ARIMA, ARMA and Holt Winters Exponential Smoothing for predicting the number of Covid-19 cases for next 5 days for 10 most densely populated countries."",
+        ""Obtained highest accuracy of 99.93% for one country and average accuracy of 87%.""
+      ]
+    },
+    {
+      ""name"": ""A Method for Waste Segregation using Convolutional Neural Networks"",
+      ""type"": null,
+      ""link"": ""[paper link]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Engineered a custom CNN model that gave an accuracy of 94.9% and performed a comparative study of models such as VGG16 and ResNet-34 for classification of waste as organic and recyclable.""
+      ]
+    }
+  ],
+  ""certifications"": [
+    {
+      ""name"": ""Data Science and Deep Learning Specialization"",
+      ""by"": ""Coursera"",
+      ""link"": ""None""
+    },
+    {
+      ""name"": ""Android App Development"",
+      ""by"": ""Udemy"",
+      ""link"": ""None""
+    }
+  ],
+  ""achievements"": [
+    ""Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022""
+  ]
+}","{""name"": ""Jash Shah"", ""summary"": null, ""phone"": ""+1 (667) 600-9472"", ""email"": ""jshah48@jh.edu"", ""media"": {""linkedin"": ""www.linkedin.com/in/jashshah09"", ""github"": ""github.com/jash09"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Engineering in Computer Science"", ""university"": ""Johns Hopkins University, USA"", ""from"": ""August 2023"", ""to"": ""May 2025(Expected)"", ""grade"": null, ""coursework"": [""Algorithms"", ""Machine Translation"", ""Natural Language Processing""]}, {""degree"": ""Bachelor of Technology in Information Technology"", ""university"": ""University of Mumbai, India"", ""from"": ""August 2018"", ""to"": ""July 2022"", ""grade"": ""8.81/10"", ""coursework"": [""Data Structures and Algorithms"", ""Operating Systems"", ""Cloud Computing"", ""Object Oriented Programming"", ""DevOps""]}], ""skill_section"": [{""name"": ""Programming languages"", ""skills"": [""Python"", ""C++"", ""C"", ""Java"", ""JavaScript"", ""HTML"", ""CSS"", ""PHP"", ""Shell""]}, {""name"": ""Tools, technologies, and frameworks"", ""skills"": [""Scikit-learn"", ""Pandas"", ""NumPy"", ""Matplotlib"", ""NLTK"", ""TensorFlow"", ""Django"", ""PyTorch"", ""Keras"", ""OpenCV"", ""Bootstrap"", ""Android Studio"", ""Flutter"", ""ReactJS"", ""Docker"", ""Flask"", ""AWS(EC2)"", ""Git"", ""JIRA"", ""Agile"", ""Scrum"", ""Linux"", ""MS Excel""]}, {""name"": ""Databases and BI tools"", ""skills"": [""MySQL"", ""PostgreSQL"", ""MongoDB"", ""AWS(S3)"", ""GCP"", ""Tableau"", ""PowerBI"", ""Grafana""]}], ""work_experience"": ""[{\""role\"": \""Software Engineer - I\"", \""company\"": \""Forcepoint, Mumbai, India\"", \""location\"": null, \""from\"": \""July 2022\"", \""to\"": \""June 2023\"", \""description\"": [\""Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity.\"", \""Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy.\"", \""Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%.\"", \""Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.\""]}, {\""role\"": \""Data Analyst intern\"", \""company\"": \""Tech Mahindra, Mumbai, India\"", \""location\"": null, \""from\"": \""June 2021\"", \""to\"": \""October 2021\"", \""description\"": [\""Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users.\"", \""Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.\""]}, {\""role\"": \""Data Science intern\"", \""company\"": \""InVideo, Mumbai, India\"", \""location\"": null, \""from\"": \""November 2020\"", \""to\"": \""April 2021\"", \""description\"": [\""Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users.\"", \""Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.\""]}]"", ""projects"": ""[{\""name\"": \""Search Engine for All file types - Sunhack Hackathon - Meta & Amazon Sponsored\"", \""type\"": \""Hackathon\"", \""link\"": \""https://devpost.com/software/team-soul-1fjgwo\"", \""from\"": \""Nov 2023\"", \""to\"": \""Nov 2023\"", \""description\"": [\""1st runner up prize in crafted AI persona, to explore LLM's subtle contextual understanding and create innovative collaborations between humans and machines.\"", \""Devised a TabNet Classifier Model having 98.7% accuracy in detecting forest fire through IoT sensor data, deployed on AWS and edge devices 'Silvanet Wildfire Sensors' using technologies TinyML, Docker, Redis, and celery.\"", \""Developed a web application using ReactJS and NodeJS that allows users to search for files of any type (images, videos, documents, etc.) across multiple cloud storage platforms (Google Drive, Dropbox, OneDrive, etc.).\""]}, {\""name\"": \""Crypto-currency Investment Scorer\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets.\"", \""Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.\""]}, {\""name\"": \""A music web-app\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API.\"", \""Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.\""]}]"", ""certifications"": [{""name"": ""Data Science and Deep Learning Specialization"", ""by"": ""Coursera"", ""link"": ""None""}, {""name"": ""Android App Development"", ""by"": ""Udemy"", ""link"": ""None""}], ""achievements"": [""Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022""]}","{""name"": ""Jash Shah"", ""summary"": null, ""phone"": ""+1 (667) 600-9472"", ""email"": ""jshah48@jh.edu"", ""media"": {""linkedin"": ""www.linkedin.com/in/jashshah09"", ""github"": ""github.com/jash09"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Engineering in Computer Science"", ""university"": ""Johns Hopkins University, USA"", ""from"": ""August 2023"", ""to"": ""May 2025(Expected)"", ""grade"": null, ""coursework"": [""Algorithms"", ""Machine Translation"", ""Natural Language Processing""]}, {""degree"": ""Bachelor of Technology in Information Technology"", ""university"": ""University of Mumbai, India"", ""from"": ""August 2018"", ""to"": ""July 2022"", ""grade"": ""8.81/10"", ""coursework"": [""Data Structures and Algorithms"", ""Operating Systems"", ""Cloud Computing"", ""Object Oriented Programming"", ""DevOps""]}], ""skill_section"": [{""name"": ""Programming languages"", ""skills"": [""Python"", ""C++"", ""C"", ""Java"", ""JavaScript"", ""HTML"", ""CSS"", ""PHP"", ""Shell""]}, {""name"": ""Tools, technologies, and frameworks"", ""skills"": [""Scikit-learn"", ""Pandas"", ""NumPy"", ""Matplotlib"", ""NLTK"", ""TensorFlow"", ""Django"", ""PyTorch"", ""Keras"", ""OpenCV"", ""Bootstrap"", ""Android Studio"", ""Flutter"", ""ReactJS"", ""Docker"", ""Flask"", ""AWS(EC2)"", ""Git"", ""JIRA"", ""Agile"", ""Scrum"", ""Linux"", ""MS Excel""]}, {""name"": ""Databases and BI tools"", ""skills"": [""MySQL"", ""PostgreSQL"", ""MongoDB"", ""AWS(S3)"", ""GCP"", ""Tableau"", ""PowerBI"", ""Grafana""]}], ""work_experience"": ""[{\""role\"": \""Software Engineer - I\"", \""company\"": \""Forcepoint, Mumbai, India\"", \""location\"": null, \""from\"": \""July 2022\"", \""to\"": \""June 2023\"", \""description\"": [\""Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity.\"", \""Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy.\"", \""Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%.\"", \""Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.\""]}, {\""role\"": \""Data Analyst intern\"", \""company\"": \""Tech Mahindra, Mumbai, India\"", \""location\"": null, \""from\"": \""June 2021\"", \""to\"": \""October 2021\"", \""description\"": [\""Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users.\"", \""Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.\""]}, {\""role\"": \""Data Science intern\"", \""company\"": \""InVideo, Mumbai, India\"", \""location\"": null, \""from\"": \""November 2020\"", \""to\"": \""April 2021\"", \""description\"": [\""Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users.\"", \""Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.\""]}]"", ""projects"": ""[{\""name\"": \""Crypto-currency Investment Scorer\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets.\"", \""Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.\""]}, {\""name\"": \""A music web-app\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API.\"", \""Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.\""]}, {\""name\"": \""Covid-19 Outbreak Prediction\"", \""type\"": null, \""link\"": \""[paper link]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Implemented and fine-tuned time-series forecasting models like ARIMA, ARMA and Holt Winters Exponential Smoothing for predicting the number of Covid-19 cases for next 5 days for 10 most densely populated countries.\"", \""Obtained highest accuracy of 99.93% for one country and average accuracy of 87%.\""]}, {\""name\"": \""A Method for Waste Segregation using Convolutional Neural Networks\"", \""type\"": null, \""link\"": \""[paper link]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Engineered a custom CNN model that gave an accuracy of 94.9% and performed a comparative study of models such as VGG16 and ResNet-34 for classification of waste as organic and recyclable.\""]}]"", ""certifications"": [{""name"": ""Data Science and Deep Learning Specialization"", ""by"": ""Coursera"", ""link"": ""None""}, {""name"": ""Android App Development"", ""by"": ""Udemy"", ""link"": ""None""}], ""achievements"": [""Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022""]}"
+Parthvi_Mehta_Resume.pdf,"PARTHVI MEHTA  
+pmehta14@jh.edu  | +1 (667) -406-5320  | linkedin.com/in/parthvimehta/  | github.com/parthvinm  
+EDUCATION  
+Johns  Hopkins University  | Master of Science in  Computer  Science   Dec 2024 
+• Coursework: Databases, Artificial Intelligence, Natural Language Processing , Parallel Computing in Data Science  
+• Research: VectorCam:  Mosquito Surveillance @ Center for Bioengineering Innovation and Design, backed by Gates Foundation  
+ 
+University  Of Mumbai  | Bachelor of Technology  in Computer Engineering  Oct 2020  
+• Coursework:  Object  Oriented Programming, Digital Signal and Image Processing,  Machine Learning , Neural Networks  
+ 
+SKILLS  
+• Languages : Python, Java, SQL, Javascript, C, C++,  PHP, HTML , CSS 
+• Libraries &  Frameworks : PyTorch , Tensorflow (Basic), Selenium, OpenCV, Pandas, Numpy, Scikit -learn, NLTK  
+• Software Tools:  SAP, Informatica, AWS, Salesforce Workbenc h, Android Studio, Automation Anywhere RPA  
+ 
+PROFESSIONAL EXPERIENCE  
+Graduate Research Assistant | Johns Hopkins University  [Poster ] Feb 2023 – Present  
+• Developed  ‘VectorCam’, a low-cost mosquito surveillance system  for real -time mosquito  species multiclass  identification  
+• Led the curation and utilization of a diverse  6,000 -photo  mosquito  dataset, employing computer vision techniques with 
+EfficientNet and Swin Transformer for model  development  
+• Accuracy : Achieved 95% model accuracy, reducing report generation time by 90% in Uganda with seamless DHIS2 integration  
+ 
+Computer Vision Intern  | Faclon Labs  Oct 2022 – Dec 2022  
+• Enabled efficient equipment monitoring and entry -exit analysis with advanced Person -Machine Interaction detection  
+• Engineered YOLOv5 -based object detection model, precisely counting individuals near the machine using bounding box area  
+• Efficiency : Innovated  a dynamic web app framework, elevating real -time monitoring efficiency by 90% 
+ 
+Software Quality Assurance Analyst  | Wolters Kluwer  Oct 2020 – Sep 2022  
+• Streamlined Black Box testing for Informatica workflows by creating  and executing manual test cases  
+• Created functional testing framework of business case analysis  in customer relationship management data lakes   
+• Accuracy : Implemented root cause analysis  process targeting transformation errors, improving error prevention by 95%  
+ 
+Automation Intern | IDeaS Revenue Solutions – a SAS company  May 2019 – Jul 2019  
+• Formed automation scripts on Salesforce, MS Flow, and Power BI using Selenium for revenue reports  
+• Built a software bot to extract and process files using Automation Anywhere Robotic Process Automation tool 
+• Efficiency : Created Automation programs in Python that decreased manual efforts by 90% and manual errors by 75%  
+ 
+Software Development Intern  | University of Mumbai   Jan 2019 – Apr 2019  
+• Built a context -based chatbot for university website to assist over 100,000 prospective students with admission -related  
+• Implemented machine learning techniques by training the bot on  both  Google BERT ML model and Long Short -Term Memory 
+(LSTM) Recurrent Neural Network  for precise query responses  
+• Efficiency : Boosted efficiency and user satisfaction by reducing admission query emails by 70%   
+ 
+ 
+PUBLICATIONS AND PROJECTS  
+SageRef: Single Image Reflection Removal  [Project Repository ] Apr 2023 
+• Developed a technique using a variational autoencoder to separate reflections and backgrounds in  digitally captured images  
+• Quality : Evaluated on the SIR2 benchmark dataset with 600 images, achieving a 79% of structural similarity index (SSIM)  
+ 
+Monitor Social Distance using CNN & Image Transformation  [Publication  in IEEE Conference, 2021 ] Sep 2020 – Dec 2020 
+• Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, 
+addressing the critical need for safety measures during the global pandemic  
+• Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset  
+• Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%  
+ 
+Lawgical: Automated Legal Counselling Application  Jun 2019 – May 2020  
+• Efficiency : Leveraged machine learning for case success prediction  → aiding clients in reducing legal fees by 30% and 
+expediting decision -making by 35%  
+• Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as 
+LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations  
+ 
+Automated Digital Prescription from Voice  Jan 2020  
+• Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India  
+• Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations  
+• Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation  ","{
+  ""name"": ""PARTHVI MEHTA"",
+  ""summary"": null,
+  ""phone"": ""+1 (667) -406-5320"",
+  ""email"": ""pmehta14@jh.edu"",
+  ""media"": {
+    ""linkedin"": ""linkedin.com/in/parthvimehta/"",
+    ""github"": ""github.com/parthvinm"",
+    ""devpost"": null,
+    ""medium"": null,
+    ""leetcode"": null,
+    ""dagshub"": null,
+    ""kaggle"": null,
+    ""instagram"": null
+  },
+  ""education"": [
+    {
+      ""degree"": ""Master of Science in Computer Science"",
+      ""university"": ""Johns Hopkins University"",
+      ""from"": ""Dec 2024"",
+      ""to"": null,
+      ""grade"": null,
+      ""coursework"": [
+        ""Databases"",
+        ""Artificial Intelligence"",
+        ""Natural Language Processing"",
+        ""Parallel Computing in Data Science""
+      ]
+    },
+    {
+      ""degree"": ""Bachelor of Technology in Computer Engineering"",
+      ""university"": ""University Of Mumbai"",
+      ""from"": ""Oct 2020"",
+      ""to"": null,
+      ""grade"": null,
+      ""coursework"": [
+        ""Object Oriented Programming"",
+        ""Digital Signal and Image Processing"",
+        ""Machine Learning"",
+        ""Neural Networks""
+      ]
+    }
+  ],
+  ""skill_section"": [
+    {
+      ""name"": ""Languages"",
+      ""skills"": [
+        ""Python"",
+        ""Java"",
+        ""SQL"",
+        ""Javascript"",
+        ""C"",
+        ""C++"",
+        ""PHP"",
+        ""HTML"",
+        ""CSS""
+      ]
+    },
+    {
+      ""name"": ""Libraries & Frameworks"",
+      ""skills"": [
+        ""PyTorch"",
+        ""Tensorflow (Basic)"",
+        ""Selenium"",
+        ""OpenCV"",
+        ""Pandas"",
+        ""Numpy"",
+        ""Scikit -learn"",
+        ""NLTK""
+      ]
+    },
+    {
+      ""name"": ""Software Tools"",
+      ""skills"": [
+        ""SAP"",
+        ""Informatica"",
+        ""AWS"",
+        ""Salesforce Workbenc h"",
+        ""Android Studio"",
+        ""Automation Anywhere RPA""
+      ]
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""role"": ""Graduate Research Assistant"",
+      ""company"": ""Johns Hopkins University"",
+      ""from"": ""Feb 2023"",
+      ""to"": ""Present"",
+      ""description"": [
+        ""Developed  ‘VectorCam’, a low-cost mosquito surveillance system  for real -time mosquito  species multiclass  identification"",
+        ""Led the curation and utilization of a diverse  6,000 -photo  mosquito  dataset, employing computer vision techniques with EfficientNet and Swin Transformer for model  development"",
+        ""Accuracy : Achieved 95% model accuracy, reducing report generation time by 90% in Uganda with seamless DHIS2 integration""
+      ]
+    },
+    {
+      ""role"": ""Computer Vision Intern"",
+      ""company"": ""Faclon Labs"",
+      ""from"": ""Oct 2022"",
+      ""to"": ""Dec 2022"",
+      ""description"": [
+        ""Enabled efficient equipment monitoring and entry -exit analysis with advanced Person -Machine Interaction detection"",
+        ""Engineered YOLOv5 -based object detection model, precisely counting individuals near the machine using bounding box area"",
+        ""Efficiency : Innovated  a dynamic web app framework, elevating real -time monitoring efficiency by 90%""
+      ]
+    },
+    {
+      ""role"": ""Software Quality Assurance Analyst"",
+      ""company"": ""Wolters Kluwer"",
+      ""from"": ""Oct 2020"",
+      ""to"": ""Sep 2022"",
+      ""description"": [
+        ""Streamlined Black Box testing for Informatica workflows by creating  and executing manual test cases"",
+        ""Created functional testing framework of business case analysis  in customer relationship management data lakes"",
+        ""Accuracy : Implemented root cause analysis  process targeting transformation errors, improving error prevention by 95%""
+      ]
+    },
+    {
+      ""role"": ""Automation Intern"",
+      ""company"": ""IDeaS Revenue Solutions – a SAS company"",
+      ""from"": ""May 2019"",
+      ""to"": ""Jul 2019"",
+      ""description"": [
+        ""Formed automation scripts on Salesforce, MS Flow, and Power BI using Selenium for revenue reports"",
+        ""Built a software bot to extract and process files using Automation Anywhere Robotic Process Automation tool"",
+        ""Efficiency : Created Automation programs in Python that decreased manual efforts by 90% and manual errors by 75%""
+      ]
+    },
+    {
+      ""role"": ""Software Development Intern"",
+      ""company"": ""University of Mumbai"",
+      ""from"": ""Jan 2019"",
+      ""to"": ""Apr 2019"",
+      ""description"": [
+        ""Built a context -based chatbot for university website to assist over 100,000 prospective students with admission -related"",
+        ""Implemented machine learning techniques by training the bot on  both  Google BERT ML model and Long Short -Term Memory (LSTM) Recurrent Neural Network  for precise query responses"",
+        ""Efficiency : Boosted efficiency and user satisfaction by reducing admission query emails by 70%""
+      ]
+    }
+  ],
+  ""projects"": [
+    {
+      ""name"": ""SageRef: Single Image Reflection Removal"",
+      ""type"": null,
+      ""link"": ""Apr 2023"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Developed a technique using a variational autoencoder to separate reflections and backgrounds in  digitally captured images"",
+        ""Quality : Evaluated on the SIR2 benchmark dataset with 600 images, achieving a 79% of structural similarity index (SSIM)""
+      ]
+    },
+    {
+      ""name"": ""Monitor Social Distance using CNN & Image Transformation"",
+      ""type"": ""Publication in IEEE Conference, 2021"",
+      ""link"": null,
+      ""from"": ""Sep 2020"",
+      ""to"": ""Dec 2020"",
+      ""description"": [
+        ""Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, addressing the critical need for safety measures during the global pandemic"",
+        ""Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset"",
+        ""Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%""
+      ]
+    },
+    {
+      ""name"": ""Lawgical: Automated Legal Counselling Application"",
+      ""type"": null,
+      ""link"": null,
+      ""from"": ""Jun 2019"",
+      ""to"": ""May 2020"",
+      ""description"": [
+        ""Efficiency : Leveraged machine learning for case success prediction  → aiding clients in reducing legal fees by 30% and expediting decision -making by 35%"",
+        ""Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations""
+      ]
+    },
+    {
+      ""name"": ""Automated Digital Prescription from Voice"",
+      ""type"": null,
+      ""link"": null,
+      ""from"": ""Jan 2020"",
+      ""to"": null,
+      ""description"": [
+        ""Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India"",
+        ""Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations"",
+        ""Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation""
+      ]
+    }
+  ],
+  ""certifications"": [],
+  ""achievements"": []
+}","{""name"": ""PARTHVI MEHTA"", ""summary"": null, ""phone"": ""+1 (667) -406-5320"", ""email"": ""pmehta14@jh.edu"", ""media"": {""linkedin"": ""linkedin.com/in/parthvimehta/"", ""github"": ""github.com/parthvinm"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Computer Science"", ""university"": ""Johns Hopkins University"", ""from"": ""Dec 2024"", ""to"": null, ""grade"": null, ""coursework"": [""Databases"", ""Artificial Intelligence"", ""Natural Language Processing"", ""Parallel Computing in Data Science""]}, {""degree"": ""Bachelor of Technology in Computer Engineering"", ""university"": ""University Of Mumbai"", ""from"": ""Oct 2020"", ""to"": null, ""grade"": null, ""coursework"": [""Object Oriented Programming"", ""Digital Signal and Image Processing"", ""Machine Learning"", ""Neural Networks""]}], ""skill_section"": [{""name"": ""Languages"", ""skills"": [""Python"", ""Java"", ""SQL"", ""Javascript"", ""C"", ""C++"", ""PHP"", ""HTML"", ""CSS""]}, {""name"": ""Libraries & Frameworks"", ""skills"": [""PyTorch"", ""Tensorflow (Basic)"", ""Selenium"", ""OpenCV"", ""Pandas"", ""Numpy"", ""Scikit -learn"", ""NLTK""]}, {""name"": ""Software Tools"", ""skills"": [""SAP"", ""Informatica"", ""AWS"", ""Salesforce Workbenc h"", ""Android Studio"", ""Automation Anywhere RPA""]}], ""work_experience"": ""[{\""role\"": \""Graduate Research Assistant\"", \""company\"": \""Johns Hopkins University\"", \""location\"": \""Baltimore, MD\"", \""from\"": \""Feb 2023\"", \""to\"": \""Present\"", \""description\"": [\""Developed  \\u2018VectorCam\\u2019, a low-cost mosquito surveillance system  for real -time mosquito  species multiclass  identification\"", \""Led the curation and utilization of a diverse  6,000 -photo  mosquito  dataset, employing computer vision techniques with EfficientNet and Swin Transformer for model  development\"", \""Accuracy : Achieved 95% model accuracy, reducing report generation time by 90% in Uganda with seamless DHIS2 integration\""]}, {\""role\"": \""Computer Vision Intern\"", \""company\"": \""Faclon Labs\"", \""location\"": \""Remote\"", \""from\"": \""Oct 2022\"", \""to\"": \""Dec 2022\"", \""description\"": [\""Enabled efficient equipment monitoring and entry -exit analysis with advanced Person -Machine Interaction detection\"", \""Engineered YOLOv5 -based object detection model, precisely counting individuals near the machine using bounding box area\"", \""Efficiency : Innovated  a dynamic web app framework, elevating real -time monitoring efficiency by 90%\""]}, {\""role\"": \""Software Quality Assurance Analyst\"", \""company\"": \""Wolters Kluwer\"", \""location\"": \""Remote\"", \""from\"": \""Oct 2020\"", \""to\"": \""Sep 2022\"", \""description\"": [\""Streamlined Black Box testing for Informatica workflows by creating  and executing manual test cases\"", \""Created functional testing framework of business case analysis  in customer relationship management data lakes\"", \""Accuracy : Implemented root cause analysis  process targeting transformation errors, improving error prevention by 95%\""]}, {\""role\"": \""Automation Intern\"", \""company\"": \""IDeaS Revenue Solutions \\u2013 a SAS company\"", \""location\"": \""Remote\"", \""from\"": \""May 2019\"", \""to\"": \""Jul 2019\"", \""description\"": [\""Formed automation scripts on Salesforce, MS Flow, and Power BI using Selenium for revenue reports\"", \""Built a software bot to extract and process files using Automation Anywhere Robotic Process Automation tool\"", \""Efficiency : Created Automation programs in Python that decreased manual efforts by 90% and manual errors by 75%\""]}, {\""role\"": \""Software Development Intern\"", \""company\"": \""University of Mumbai\"", \""location\"": \""Mumbai, India\"", \""from\"": \""Jan 2019\"", \""to\"": \""Apr 2019\"", \""description\"": [\""Built a context -based chatbot for university website to assist over 100,000 prospective students with admission -related\"", \""Implemented machine learning techniques by training the bot on  both  Google BERT ML model and Long Short -Term Memory (LSTM) Recurrent Neural Network  for precise query responses\"", \""Efficiency : Boosted efficiency and user satisfaction by reducing admission query emails by 70%\""]}]"", ""projects"": ""[{\""name\"": \""Monitor Social Distance using CNN & Image Transformation\"", \""type\"": \""Publication in IEEE Conference, 2021\"", \""link\"": null, \""from\"": \""Sep 2020\"", \""to\"": \""Dec 2020\"", \""description\"": [\""Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, addressing the critical need for safety measures during the global pandemic\"", \""Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset\"", \""Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%\""]}, {\""name\"": \""Lawgical: Automated Legal Counselling Application\"", \""type\"": null, \""link\"": null, \""from\"": \""Jun 2019\"", \""to\"": \""May 2020\"", \""description\"": [\""Efficiency : Leveraged machine learning for case success prediction  \\u2192 aiding clients in reducing legal fees by 30% and expediting decision -making by 35%\"", \""Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations\""]}, {\""name\"": \""Automated Digital Prescription from Voice\"", \""type\"": null, \""link\"": null, \""from\"": \""Jan 2020\"", \""to\"": null, \""description\"": [\""Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India\"", \""Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations\"", \""Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation\""]}]"", ""certifications"": [], ""achievements"": []}","{""name"": ""PARTHVI MEHTA"", ""summary"": null, ""phone"": ""+1 (667) -406-5320"", ""email"": ""pmehta14@jh.edu"", ""media"": {""linkedin"": ""linkedin.com/in/parthvimehta/"", ""github"": ""github.com/parthvinm"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Computer Science"", ""university"": ""Johns Hopkins University"", ""from"": ""Dec 2024"", ""to"": null, ""grade"": null, ""coursework"": [""Databases"", ""Artificial Intelligence"", ""Natural Language Processing"", ""Parallel Computing in Data Science""]}, {""degree"": ""Bachelor of Technology in Computer Engineering"", ""university"": ""University Of Mumbai"", ""from"": ""Oct 2020"", ""to"": null, ""grade"": null, ""coursework"": [""Object Oriented Programming"", ""Digital Signal and Image Processing"", ""Machine Learning"", ""Neural Networks""]}], ""skill_section"": [{""name"": ""Languages"", ""skills"": [""Python"", ""Java"", ""SQL"", ""Javascript"", ""C"", ""C++"", ""PHP"", ""HTML"", ""CSS""]}, {""name"": ""Libraries & Frameworks"", ""skills"": [""PyTorch"", ""Tensorflow (Basic)"", ""Selenium"", ""OpenCV"", ""Pandas"", ""Numpy"", ""Scikit -learn"", ""NLTK""]}, {""name"": ""Software Tools"", ""skills"": [""SAP"", ""Informatica"", ""AWS"", ""Salesforce Workbenc h"", ""Android Studio"", ""Automation Anywhere RPA""]}], ""work_experience"": ""[{\""role\"": \""Software Engineer\"", \""company\"": \""Winjit Technologies\"", \""location\"": \""Pune, India\"", \""from\"": \""Jan 2020\"", \""to\"": \""Jun 2022\"", \""description\"": [\""Engineered 10+ RESTful APIs Architecture and Distributed services; Designed 30+ low-latency responsive UI/UX application features with high-quality web architecture; Managed and optimized large-scale Databases. (Systems Design)\"", \""Initiated and Designed a standardized solution for dynamic forms generation, with customizable CSS capabilities feature, which reduces development time by 8x; Led and collaborated with a 12 member cross-functional team. (Idea Generation)\"", \""Developed and implemented a novel algorithm for real-time fraud detection, reducing false positives by 30% and improving detection accuracy by 15%. (Machine Learning)\""]}, {\""role\"": \""Research Intern\"", \""company\"": \""IMATMI, Robbinsville\"", \""location\"": \""New Jersey (Remote)\"", \""from\"": \""Mar 2019\"", \""to\"": \""Aug 2019\"", \""description\"": [\""Conducted research and developed a range of ML and statistical models to design analytical tools and streamline HR processes, optimizing talent management systems for increased efficiency.\"", \""Created 'goals and action plan generation' tool for employees, considering their weaknesses to facilitate professional growth.\"", \""Presented research findings at the annual IMATMI conference, receiving recognition for innovative approach and potential impact on the HR industry.\""]}, {\""role\"": \""Software Development Intern\"", \""company\"": \""ABC Corporation\"", \""location\"": \""New York, NY\"", \""from\"": \""Jun 2018\"", \""to\"": \""Dec 2018\"", \""description\"": [\""Developed and maintained software applications for various clients, ensuring high quality and adherence to specifications.\"", \""Collaborated with a team of engineers to design and implement new features, improving user experience and functionality.\"", \""Participated in code reviews and provided feedback to improve code quality and maintainability.\""]}]"", ""projects"": ""[{\""name\"": \""Monitor Social Distance using CNN & Image Transformation\"", \""type\"": \""Publication in IEEE Conference, 2021\"", \""link\"": null, \""from\"": \""Sep 2020\"", \""to\"": \""Dec 2020\"", \""description\"": [\""Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, addressing the critical need for safety measures during the global pandemic\"", \""Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset\"", \""Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%\""]}, {\""name\"": \""Lawgical: Automated Legal Counselling Application\"", \""type\"": null, \""link\"": null, \""from\"": \""Jun 2019\"", \""to\"": \""May 2020\"", \""description\"": [\""Efficiency : Leveraged machine learning for case success prediction  \\u2192 aiding clients in reducing legal fees by 30% and expediting decision -making by 35%\"", \""Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations\""]}, {\""name\"": \""Automated Digital Prescription from Voice\"", \""type\"": null, \""link\"": null, \""from\"": \""Jan 2020\"", \""to\"": null, \""description\"": [\""Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India\"", \""Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations\"", \""Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation\""]}]"", ""certifications"": [], ""achievements"": []}"

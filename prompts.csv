@@ -1,0 +1,217 @@
+prompt_name,prompt_text
+prompt_structure,"Objective:  Parse a text-formatted resume efficiently and extract diverse applicant's data into a structured JSON format that adheres to the provided TypeScript interface schema.
+
+Input: Text-formatted applicant's resume.
+
+Steps:
+1. Analyze Structure: Examine the text-formatted resume to understand its organization and identify key sections (e.g., education, experience, skills).
+2. Convert to JSON: Map the extracted information to the corresponding fields in the schema, creating a structured JSON representation.
+3. Optimize Output: Ensure the JSON is well-formatted, error-free, and handles missing values appropriately.
+4. Handle Variations: Account for different resume styles and formatting to accurately extract relevant data.
+
+Consider following TypeScript Interface for JSON schema:
+```
+interface Media {
+  linkedin: string;
+  github: string;
+  devpost: string;
+  medium: string;
+  leetcode: string;
+  dagshub: string;
+  kaggle: string;
+  instagram: string;
+}
+
+interface Education {
+  degree: string;
+  university: string;
+  from: string;
+  to: string;
+  grade?: string;
+  coursework?: string[];
+}
+
+interface SkillSection {
+  name: string;
+  skills: string[];
+}
+
+interface Work {
+  role: string;
+  company: string;
+  from: string;
+  to: string;
+  description: string[];
+}
+
+interface Project {
+  name: string;
+  type: string;
+  link?: string;
+  from: string;
+  to: string;
+  description: string[];
+}
+
+interface Certification {
+  name: string;
+  by: string;
+  link: string;
+}
+
+interface Achievements {
+  [index: number]: string;
+}
+
+interface RESUME_DATA_SCHEMA {
+  name: string;
+  summary: string;
+  phone: string;
+  email: string;
+  media: Media;
+  education: Education[];
+  skill_section: SkillSection[];
+  work_experience: Work[];
+  projects: Project[];
+  certifications: Certification[];
+  achievements: Achievements;
+}
+```
+
+Desired Output: Write the Well-formatted JSON adhering to the RESUME_DATA_SCHEMA schema, handling missing values with empty strings or ""None"".
+<JSON_OUTPUT_ACCORDING_TO_RESUME_DATA_SCHEMA>
+
+The results should contain valid JSON only, without any delimiter or characters making invalid JSON format."
+prompt_job_description,"I will provide a job and company description for your analysis. In your analysis you have to identify the key words, expertise & requirements the job demands, but also from the company description.
+
+Your task is consider it to meticulously assess the information and furnish the details like Job title, Keywords(key words are expertise & requirements the job demands), Job purpose, Job duties and responsibilities, Required qualifications, Preferred qualifications, Company name and Company details(points which include overview, mission, values or way of working) in bulleted points. 
+
+Provide them only in JSON format - which is easily parse by any json parser - with following keys:
+title, keywords, purpose, duties_responsibilities, required_qualifications, preferred_qualifications, company_name, company_info.
+
+Output:
+{
+    ""title"": ""RESULT"", 
+    ""keywords"": ""RESULT"", 
+    purpose: ""RESULT"", 
+    duties_responsibilities: ""RESULT"", 
+    required_qualifications: ""RESULT"", 
+    preferred_qualifications: ""RESULT"", 
+    company_name: ""RESULT"",
+    company_info: ""RESULT"",
+}"
+work_exp_prompt,"You are going to write a JSON resume section of ""Work Experience"" for an applicant applying for job posts.
+
+Step to follow:
+1. Analyze my Work details to match job requirements.
+2. Create a JSON resume section that highlights strongest matches
+3. Optimize JSON section for clarity and relevance to the job description.
+4. Do not make up any information, only use the provided work experience.
+
+Instructions:
+1. Focus: Craft three highly relevant work experiences aligned with the job description.
+2. Content:
+  2.1. Bullet points: 3 per experience, closely mirroring job requirements.
+  2.2. Impact: Quantify each bullet point for measurable results.
+  2.3. Storytelling: Utilize STAR methodology (Situation, Task, Action, Result) implicitly within each bullet point.
+  2.4. Action Verbs: Showcase soft skills with strong, active verbs.
+  2.5. Honesty: Prioritize truthfulness and objective language.
+  2.6. Structure: Each bullet point follows ""Did X by doing Y, achieved Z"" format.
+  2.7. Specificity: Prioritize relevance to the specific job over general achievements.
+3. Style:
+  3.1. Clarity: Clear expression trumps impressiveness.
+  3.2. Voice: Use active voice whenever possible.
+  3.3. Proofreading: Ensure impeccable spelling and grammar.
+
+Consider following Work Details in JSON format and look for the description in each and carefully align it.
+
+Consider following Job description delimited by <JOB_DETAIL></JOB_DETAIL> tag.
+<JOB_DETAIL>
+<JOB_DESCRIPTION>
+</JOB_DETAIL>
+
+Desired Output:
+Provide JSON object as output like following:
+{
+  ""work_experience"": [
+    {
+      ""role"": ""Software Engineer"",
+      ""company"": ""Winjit Technologies"",
+      ""location"": ""Pune, India""
+      ""from"": ""Jan 2020"",
+      ""to"": ""Jun 2022"",
+      ""description"": [
+        ""Engineered 10+ RESTful APIs Architecture and Distributed services; Designed 30+ low-latency responsive UI/UX application features with high-quality web architecture; Managed and optimized large-scale Databases. (Systems Design)"",  
+        ""Initiated and Designed a standardized solution for dynamic forms generation, with customizable CSS capabilities feature, which reduces development time by 8x; Led and collaborated with a 12 member cross-functional team. (Idea Generation)""  
+        and so on ...
+      ]
+    },
+    {
+      ""role"": ""Research Intern"",
+      ""company"": ""IMATMI, Robbinsville"",
+      ""location"": ""New Jersey (Remote)""
+      ""from"": ""Mar 2019"",
+      ""to"": ""Aug 2019"",
+      ""description"": [
+        ""Conducted research and developed a range of ML and statistical models to design analytical tools and streamline HR processes, optimizing talent management systems for increased efficiency."",
+        ""Created 'goals and action plan generation' tool for employees, considering their weaknesses to facilitate professional growth."",
+        and so on ...
+      ]
+    }
+  ],
+}
+"
+prompt_project,"You are going to write a JSON resume section of ""projects"" for an applicant applying for job posts.
+
+Step to follow:
+1. Analyze my project details to match job requirements.
+2. Create a JSON resume section that highlights strongest matches
+3. Optimize JSON section for clarity and relevance to the job description.
+4. Do not make up any information, only use the provided project details.
+5. Keep the order of projects as the most relevant to the job description to the least relevant.
+
+
+Instructions:
+1. Focus: Craft three highly relevant project experiences aligned with the job description.
+2. Content:
+  2.1. Bullet points: 3 per experience, closely mirroring job requirements.
+  2.2. Impact: Quantify each bullet point for measurable results.
+  2.3. Storytelling: Utilize STAR methodology (Situation, Task, Action, Result) implicitly within each bullet point.
+  2.4. Action Verbs: Showcase soft skills with strong, active verbs.
+  2.5. Honesty: Prioritize truthfulness and objective language.
+  2.6. Structure: Each bullet point follows ""Did X by doing Y, achieved Z"" format.
+  2.7. Specificity: Prioritize relevance to the specific job over general achievements.
+3. Style:
+  3.1. Clarity: Clear expression trumps impressiveness.
+  3.2. Voice: Use active voice whenever possible.
+  3.3. Proofreading: Ensure impeccable spelling and grammar.
+
+Consider following Project Details in JSON format.
+
+Consider following Job description delimited by <JOB_DETAIL></JOB_DETAIL> tag.
+<JOB_DETAIL>
+<JOB_DESCRIPTION>
+</JOB_DETAIL>
+
+Desired Output:
+Provide JSON object as output like following:
+""projects"": [
+    {
+      ""name"": ""Search Engine for All file types - Sunhack Hackathon - Meta & Amazon Sponsored"",
+      ""type"": ""Hackathon"",
+      ""link"": ""https://devpost.com/software/team-soul-1fjgwo"",
+      ""from"": ""Nov 2023"",
+      ""to"": ""Nov 2023"",
+      ""description"": [
+        ""1st runner up prize in crafted AI persona, to explore LLM's subtle contextual understanding and create innovative collaborations between humans and machines."",
+        ""Devised a TabNet Classifier Model having 98.7% accuracy in detecting forest fire through IoT sensor data, deployed on AWS and edge devices 'Silvanet Wildfire Sensors' using technologies TinyML, Docker, Redis, and celery."",
+        and So on ...
+      ]
+    }
+    and So on ...
+  ]"
+improvement_prompt,"You are an experienced Technical Human Resource Manager,your task is to review the provided resume against the job description. 
+  Please share your professional evaluation on whether the candidate's profile aligns with the role. 
+ Highlight the strengths and weaknesses of the applicant in relation to the specified job requirements.
+ Make sure you provide a detailed analysis of the resume and suggest areas of improvement.
+"

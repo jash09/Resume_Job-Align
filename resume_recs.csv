@@ -1,0 +1,948 @@
+file_name,resume_text,resume_json,Job Description 1,Job Description 2,Software Intern - Generative AI Developer,Machine Learning Engineer,AI Engineer,Associate Software Engineer,Data Analyst,Data Scientist,AI/ML Data Science Intern,Software Engineer intern, Machine Learning Engineer intern,Data Engineering intern
+Resume_Jash_09_SDE.pdf,"Jash Shah      Baltimore, MD|+1 (667) 600-9472 |jshah48@jh.edu|github.com/jash09|www.linkedin.com/in/jashshah09  EDUCATION Johns Hopkins University, USA                                                                                                      August 2023 – May 2025(Expected) Master of Science in Engineering in Computer Science Relevant Courses – Algorithms, Machine Translation, Natural Language Processing                                                                                                                          University of Mumbai, India                                                                                                                           August 2018 – July 2022 Bachelor of Technology in Information Technology           (CGPA 8.81/10) Relevant Courses - Data Structures and Algorithms, Operating Systems, Cloud Computing, Object Oriented Programming, DevOps.  TECHNICAL SKILLS AND CERTIFICATIONS• Programming languages - Python, C++, C, Java, JavaScript, HTML, CSS, PHP, Shell. • Tools, technologies, and frameworks - Scikit-learn, Pandas, NumPy, Matplotlib, NLTK, TensorFlow, Django, PyTorch, Keras, OpenCV, Bootstrap, Android Studio, Flutter, ReactJS, Docker, Flask, AWS(EC2), Git, JIRA, Agile, Scrum, Linux, MS Excel. • Databases and BI tools – MySQL, PostgreSQL, MongoDB, AWS(S3), GCP, Tableau, PowerBI, Grafana. • Certifications - Data Science and Deep Learning Specialization offered on Coursera, and Android App Development offered on Udemy.  PROFESSIONAL EXPERIENCE The Johns Hopkins University | Lead Course Assistant – Gateway Computing: Python                                                   August 2023 – Present • Mentoring, supporting, and helping students with coursework in the classroom and conducting quizzes and project discussion classes. • Reviewing, editing, and grading student assessments and modules and helping with teaching logistics.  Forcepoint, Mumbai, India | Software Engineer - I                                                                           July 2022 – June 2023 • Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity. • Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy. • Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%.  • Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.   Tech Mahindra, Mumbai, India | Data Analyst intern                                                                  June 2021 – October 2021 • Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users. • Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.  InVideo, Mumbai, India | Data Science intern                                                               November 2020 – April 2021 • Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users. • Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.  PROJECTS  Crypto-currency Investment Scorer | Python, ML, NLP, Yahoo Finance API, Tweepy API, Flask | [GitHub] • Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets. • Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.  A music web-app | ReactJS, Material-UI, Indexed DB, and YouTube API | [GitHub] • Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API. • Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.  Covid-19 Outbreak Prediction| Python, Scikit-learn, WebPlotDigitizer | [paper link] • Implemented and fine-tuned time-series forecasting models like ARIMA, ARMA and Holt Winters Exponential Smoothing for predicting the number of Covid-19 cases for next 5 days for 10 most densely populated countries. • Obtained highest accuracy of 99.93% for one country and average accuracy of 87%.  A Method for Waste Segregation using Convolutional Neural Networks | Python, TensorFlow and FastAI | [paper link] • Engineered a custom CNN model that gave an accuracy of 94.9% and performed a comparative study of models such as VGG16 and ResNet-34 for classification of waste as organic and recyclable.  PUBLICATIONS• ""Bitcoin Investment Classifier using Machine Learning and Sentimental Analysis,"" ICICICT 2022. Published in IEEE Xplore [paper link]. • ""A Method for Waste Segregation using Convolutional Neural Networks,"" ICAECT 2022. Published in IEEE Xplore [paper link]. • ""Outbreak Prediction of COVID-19 for Dense and Populated Countries Using ML"". Ann Data. Sci. 8, 1–19 (2021) [paper link]. • ""Distributed Deep Learning and its Application in Geospatial Analytics"". CRC Press, Taylor & Francis Group [book chapter]. ","{
+  ""name"": ""Jash Shah"",
+  ""summary"": null,
+  ""phone"": ""+1 (667) 600-9472"",
+  ""email"": ""jshah48@jh.edu"",
+  ""media"": {
+    ""linkedin"": ""www.linkedin.com/in/jashshah09"",
+    ""github"": ""github.com/jash09"",
+    ""devpost"": null,
+    ""medium"": null,
+    ""leetcode"": null,
+    ""dagshub"": null,
+    ""kaggle"": null,
+    ""instagram"": null
+  },
+  ""education"": [
+    {
+      ""degree"": ""Master of Science in Engineering in Computer Science"",
+      ""university"": ""Johns Hopkins University, USA"",
+      ""from"": ""August 2023"",
+      ""to"": ""May 2025(Expected)"",
+      ""grade"": null,
+      ""coursework"": [
+        ""Algorithms"",
+        ""Machine Translation"",
+        ""Natural Language Processing""
+      ]
+    },
+    {
+      ""degree"": ""Bachelor of Technology in Information Technology"",
+      ""university"": ""University of Mumbai, India"",
+      ""from"": ""August 2018"",
+      ""to"": ""July 2022"",
+      ""grade"": ""8.81/10"",
+      ""coursework"": [
+        ""Data Structures and Algorithms"",
+        ""Operating Systems"",
+        ""Cloud Computing"",
+        ""Object Oriented Programming"",
+        ""DevOps""
+      ]
+    }
+  ],
+  ""skill_section"": [
+    {
+      ""name"": ""Programming languages"",
+      ""skills"": [
+        ""Python"",
+        ""C++"",
+        ""C"",
+        ""Java"",
+        ""JavaScript"",
+        ""HTML"",
+        ""CSS"",
+        ""PHP"",
+        ""Shell""
+      ]
+    },
+    {
+      ""name"": ""Tools, technologies, and frameworks"",
+      ""skills"": [
+        ""Scikit-learn"",
+        ""Pandas"",
+        ""NumPy"",
+        ""Matplotlib"",
+        ""NLTK"",
+        ""TensorFlow"",
+        ""Django"",
+        ""PyTorch"",
+        ""Keras"",
+        ""OpenCV"",
+        ""Bootstrap"",
+        ""Android Studio"",
+        ""Flutter"",
+        ""ReactJS"",
+        ""Docker"",
+        ""Flask"",
+        ""AWS(EC2)"",
+        ""Git"",
+        ""JIRA"",
+        ""Agile"",
+        ""Scrum"",
+        ""Linux"",
+        ""MS Excel""
+      ]
+    },
+    {
+      ""name"": ""Databases and BI tools"",
+      ""skills"": [
+        ""MySQL"",
+        ""PostgreSQL"",
+        ""MongoDB"",
+        ""AWS(S3)"",
+        ""GCP"",
+        ""Tableau"",
+        ""PowerBI"",
+        ""Grafana""
+      ]
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""role"": ""Lead Course Assistant – Gateway Computing: Python"",
+      ""company"": ""The Johns Hopkins University"",
+      ""from"": ""August 2023"",
+      ""to"": ""Present"",
+      ""description"": [
+        ""Mentoring, supporting, and helping students with coursework in the classroom and conducting quizzes and project discussion classes."",
+        ""Reviewing, editing, and grading student assessments and modules and helping with teaching logistics.""
+      ]
+    },
+    {
+      ""role"": ""Software Engineer - I"",
+      ""company"": ""Forcepoint, Mumbai, India"",
+      ""from"": ""July 2022"",
+      ""to"": ""June 2023"",
+      ""description"": [
+        ""Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity."",
+        ""Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy."",
+        ""Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%."",
+        ""Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.""
+      ]
+    },
+    {
+      ""role"": ""Data Analyst intern"",
+      ""company"": ""Tech Mahindra, Mumbai, India"",
+      ""from"": ""June 2021"",
+      ""to"": ""October 2021"",
+      ""description"": [
+        ""Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users."",
+        ""Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.""
+      ]
+    },
+    {
+      ""role"": ""Data Science intern"",
+      ""company"": ""InVideo, Mumbai, India"",
+      ""from"": ""November 2020"",
+      ""to"": ""April 2021"",
+      ""description"": [
+        ""Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users."",
+        ""Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.""
+      ]
+    }
+  ],
+  ""projects"": [
+    {
+      ""name"": ""Crypto-currency Investment Scorer"",
+      ""type"": null,
+      ""link"": ""[GitHub]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets."",
+        ""Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.""
+      ]
+    },
+    {
+      ""name"": ""A music web-app"",
+      ""type"": null,
+      ""link"": ""[GitHub]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API."",
+        ""Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.""
+      ]
+    },
+    {
+      ""name"": ""Covid-19 Outbreak Prediction"",
+      ""type"": null,
+      ""link"": ""[paper link]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Implemented and fine-tuned time-series forecasting models like ARIMA, ARMA and Holt Winters Exponential Smoothing for predicting the number of Covid-19 cases for next 5 days for 10 most densely populated countries."",
+        ""Obtained highest accuracy of 99.93% for one country and average accuracy of 87%.""
+      ]
+    },
+    {
+      ""name"": ""A Method for Waste Segregation using Convolutional Neural Networks"",
+      ""type"": null,
+      ""link"": ""[paper link]"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Engineered a custom CNN model that gave an accuracy of 94.9% and performed a comparative study of models such as VGG16 and ResNet-34 for classification of waste as organic and recyclable.""
+      ]
+    }
+  ],
+  ""certifications"": [
+    {
+      ""name"": ""Data Science and Deep Learning Specialization"",
+      ""by"": ""Coursera"",
+      ""link"": ""None""
+    },
+    {
+      ""name"": ""Android App Development"",
+      ""by"": ""Udemy"",
+      ""link"": ""None""
+    }
+  ],
+  ""achievements"": [
+    ""Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022""
+  ]
+}","{""name"": ""Jash Shah"", ""summary"": null, ""phone"": ""+1 (667) 600-9472"", ""email"": ""jshah48@jh.edu"", ""media"": {""linkedin"": ""www.linkedin.com/in/jashshah09"", ""github"": ""github.com/jash09"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Engineering in Computer Science"", ""university"": ""Johns Hopkins University, USA"", ""from"": ""August 2023"", ""to"": ""May 2025(Expected)"", ""grade"": null, ""coursework"": [""Algorithms"", ""Machine Translation"", ""Natural Language Processing""]}, {""degree"": ""Bachelor of Technology in Information Technology"", ""university"": ""University of Mumbai, India"", ""from"": ""August 2018"", ""to"": ""July 2022"", ""grade"": ""8.81/10"", ""coursework"": [""Data Structures and Algorithms"", ""Operating Systems"", ""Cloud Computing"", ""Object Oriented Programming"", ""DevOps""]}], ""skill_section"": [{""name"": ""Programming languages"", ""skills"": [""Python"", ""C++"", ""C"", ""Java"", ""JavaScript"", ""HTML"", ""CSS"", ""PHP"", ""Shell""]}, {""name"": ""Tools, technologies, and frameworks"", ""skills"": [""Scikit-learn"", ""Pandas"", ""NumPy"", ""Matplotlib"", ""NLTK"", ""TensorFlow"", ""Django"", ""PyTorch"", ""Keras"", ""OpenCV"", ""Bootstrap"", ""Android Studio"", ""Flutter"", ""ReactJS"", ""Docker"", ""Flask"", ""AWS(EC2)"", ""Git"", ""JIRA"", ""Agile"", ""Scrum"", ""Linux"", ""MS Excel""]}, {""name"": ""Databases and BI tools"", ""skills"": [""MySQL"", ""PostgreSQL"", ""MongoDB"", ""AWS(S3)"", ""GCP"", ""Tableau"", ""PowerBI"", ""Grafana""]}], ""work_experience"": ""[{\""role\"": \""Software Engineer - I\"", \""company\"": \""Forcepoint, Mumbai, India\"", \""location\"": null, \""from\"": \""July 2022\"", \""to\"": \""June 2023\"", \""description\"": [\""Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity.\"", \""Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy.\"", \""Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%.\"", \""Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.\""]}, {\""role\"": \""Data Analyst intern\"", \""company\"": \""Tech Mahindra, Mumbai, India\"", \""location\"": null, \""from\"": \""June 2021\"", \""to\"": \""October 2021\"", \""description\"": [\""Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users.\"", \""Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.\""]}, {\""role\"": \""Data Science intern\"", \""company\"": \""InVideo, Mumbai, India\"", \""location\"": null, \""from\"": \""November 2020\"", \""to\"": \""April 2021\"", \""description\"": [\""Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users.\"", \""Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.\""]}]"", ""projects"": ""[{\""name\"": \""Search Engine for All file types - Sunhack Hackathon - Meta & Amazon Sponsored\"", \""type\"": \""Hackathon\"", \""link\"": \""https://devpost.com/software/team-soul-1fjgwo\"", \""from\"": \""Nov 2023\"", \""to\"": \""Nov 2023\"", \""description\"": [\""1st runner up prize in crafted AI persona, to explore LLM's subtle contextual understanding and create innovative collaborations between humans and machines.\"", \""Devised a TabNet Classifier Model having 98.7% accuracy in detecting forest fire through IoT sensor data, deployed on AWS and edge devices 'Silvanet Wildfire Sensors' using technologies TinyML, Docker, Redis, and celery.\"", \""Developed a web application using ReactJS and NodeJS that allows users to search for files of any type (images, videos, documents, etc.) across multiple cloud storage platforms (Google Drive, Dropbox, OneDrive, etc.).\""]}, {\""name\"": \""Crypto-currency Investment Scorer\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets.\"", \""Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.\""]}, {\""name\"": \""A music web-app\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API.\"", \""Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.\""]}]"", ""certifications"": [{""name"": ""Data Science and Deep Learning Specialization"", ""by"": ""Coursera"", ""link"": ""None""}, {""name"": ""Android App Development"", ""by"": ""Udemy"", ""link"": ""None""}], ""achievements"": [""Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022""]}","{""name"": ""Jash Shah"", ""summary"": null, ""phone"": ""+1 (667) 600-9472"", ""email"": ""jshah48@jh.edu"", ""media"": {""linkedin"": ""www.linkedin.com/in/jashshah09"", ""github"": ""github.com/jash09"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Engineering in Computer Science"", ""university"": ""Johns Hopkins University, USA"", ""from"": ""August 2023"", ""to"": ""May 2025(Expected)"", ""grade"": null, ""coursework"": [""Algorithms"", ""Machine Translation"", ""Natural Language Processing""]}, {""degree"": ""Bachelor of Technology in Information Technology"", ""university"": ""University of Mumbai, India"", ""from"": ""August 2018"", ""to"": ""July 2022"", ""grade"": ""8.81/10"", ""coursework"": [""Data Structures and Algorithms"", ""Operating Systems"", ""Cloud Computing"", ""Object Oriented Programming"", ""DevOps""]}], ""skill_section"": [{""name"": ""Programming languages"", ""skills"": [""Python"", ""C++"", ""C"", ""Java"", ""JavaScript"", ""HTML"", ""CSS"", ""PHP"", ""Shell""]}, {""name"": ""Tools, technologies, and frameworks"", ""skills"": [""Scikit-learn"", ""Pandas"", ""NumPy"", ""Matplotlib"", ""NLTK"", ""TensorFlow"", ""Django"", ""PyTorch"", ""Keras"", ""OpenCV"", ""Bootstrap"", ""Android Studio"", ""Flutter"", ""ReactJS"", ""Docker"", ""Flask"", ""AWS(EC2)"", ""Git"", ""JIRA"", ""Agile"", ""Scrum"", ""Linux"", ""MS Excel""]}, {""name"": ""Databases and BI tools"", ""skills"": [""MySQL"", ""PostgreSQL"", ""MongoDB"", ""AWS(S3)"", ""GCP"", ""Tableau"", ""PowerBI"", ""Grafana""]}], ""work_experience"": ""[{\""role\"": \""Software Engineer - I\"", \""company\"": \""Forcepoint, Mumbai, India\"", \""location\"": null, \""from\"": \""July 2022\"", \""to\"": \""June 2023\"", \""description\"": [\""Implemented a robust Certificate Revocation Check feature in Python, bolstering Cloud Web Proxy security. Effectively detected and blocked expired or invalid certificates for accessed websites, substantially enhancing system integrity.\"", \""Improved the code coverage by 12% by developing test cases for various components of the Cloud Web Proxy.\"", \""Built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility to provide most similar EI JIRA tickets to the EI ticket that is created. Utilized a combination of BERT and cosine similarity for the same which improved the EI ticket closing time by about 20%.\"", \""Was awarded with the Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 for the same.\""]}, {\""role\"": \""Data Analyst intern\"", \""company\"": \""Tech Mahindra, Mumbai, India\"", \""location\"": null, \""from\"": \""June 2021\"", \""to\"": \""October 2021\"", \""description\"": [\""Built data warehouses using Snowflake and ETL pipelines that ingested customer data from a web application with 10,000 daily users.\"", \""Increased the sales demand forecasting accuracy by 7% by creating dashboards of sales data using PowerBI and Tableau.\""]}, {\""role\"": \""Data Science intern\"", \""company\"": \""InVideo, Mumbai, India\"", \""location\"": null, \""from\"": \""November 2020\"", \""to\"": \""April 2021\"", \""description\"": [\""Optimized the SQL query performance and reduced the processing time by about 70% and devised a User Trend Analytics and Prediction System to analyze and predict the usage of about 150 users.\"", \""Introduced a custom module to detect nouns from sentences with the help of Named Entity Recognition for retrieving APIs and increased the efficiency by 35%.\""]}]"", ""projects"": ""[{\""name\"": \""Crypto-currency Investment Scorer\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Designed and created a model that combined LSTM for predicting the price of Bitcoin and TextBlob for predicting the sentiment of the market at that point based on the most recent tweets.\"", \""Applied quantitative strategies that gave an investment score with an accuracy of 78% and deployed the model using Flask.\""]}, {\""name\"": \""A music web-app\"", \""type\"": null, \""link\"": \""[GitHub]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Developed a web-application using ReactJS that allows users to listen and download latest trending music using YouTube API.\"", \""Enabled distinct features such as media player with all controls, recommended songs, shuffle playlist, repeat playlist, sleep timer, trending songs of the country, offline download using Indexed DB and Google-o-auth login.\""]}, {\""name\"": \""Covid-19 Outbreak Prediction\"", \""type\"": null, \""link\"": \""[paper link]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Implemented and fine-tuned time-series forecasting models like ARIMA, ARMA and Holt Winters Exponential Smoothing for predicting the number of Covid-19 cases for next 5 days for 10 most densely populated countries.\"", \""Obtained highest accuracy of 99.93% for one country and average accuracy of 87%.\""]}, {\""name\"": \""A Method for Waste Segregation using Convolutional Neural Networks\"", \""type\"": null, \""link\"": \""[paper link]\"", \""from\"": null, \""to\"": null, \""description\"": [\""Engineered a custom CNN model that gave an accuracy of 94.9% and performed a comparative study of models such as VGG16 and ResNet-34 for classification of waste as organic and recyclable.\""]}]"", ""certifications"": [{""name"": ""Data Science and Deep Learning Specialization"", ""by"": ""Coursera"", ""link"": ""None""}, {""name"": ""Android App Development"", ""by"": ""Udemy"", ""link"": ""None""}], ""achievements"": [""Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022""]}","**Professional Evaluation**
+
+The candidate, Jash Shah, possesses a strong academic background in computer science and a diverse range of technical skills that align well with the requirements of the Generative AI Developer role.
+
+**Strengths:**
+
+* **Technical Skills:** Jash has a solid foundation in programming languages (Python, C++, Java, JavaScript), machine learning frameworks (TensorFlow, PyTorch, scikit-learn), cloud computing platforms (AWS, GCP), and other relevant technologies (Docker, Git, JIRA, Agile, Scrum).
+* **Practical Experience:** His work experience as a Software Engineer at Forcepoint demonstrates his ability to apply his technical skills to real-world projects, including implementing a robust Certificate Revocation Check feature and developing a Quick Escalation Issue Analyzer.
+* **Project Portfolio:** Jash has a portfolio of personal projects that showcase his proficiency in generative AI techniques, such as the Crypto-currency Investment Scorer and the A music web-app.
+* **Academic Credentials:** Jash is currently pursuing a Master's degree in Computer Science from Johns Hopkins University, which indicates his commitment to continuous learning and professional development.
+
+**Weaknesses:**
+
+* **Specific Experience in Generative AI:** While Jash has a strong foundation in machine learning and deep learning, the job description specifically requires experience with generative AI techniques (GANs, VAEs, diffusion models). His resume does not explicitly mention any projects or experience in these areas.
+* **Communication Skills:** The job description emphasizes excellent communication skills. While Jash's resume mentions his ability to communicate complex concepts, it would be beneficial to provide specific examples or references that demonstrate his proficiency in this area.
+
+**Areas of Improvement:**
+
+* **Highlight Generative AI Experience:** Jash could add a section to his resume that specifically showcases his experience or knowledge in generative AI techniques. This could include any coursework, research projects, or personal projects that demonstrate his understanding and application of these methods.
+* **Quantify Accomplishments:** To strengthen his resume, Jash could quantify his accomplishments by providing specific metrics or results. For example, he could mention the percentage improvement in code coverage achieved through his test case development or the accuracy of his Crypto-currency Investment Scorer model.
+* **Tailor to the Job Description:** Jash could tailor his resume more specifically to the job description by highlighting the skills and experience that are most relevant to the Generative AI Developer role. He could also use keywords from the job description throughout his resume.
+
+**Overall Assessment:**
+
+Overall, Jash Shah is a highly qualified candidate with a strong technical foundation and a passion for generative AI. With some minor improvements to his resume and a focus on highlighting his specific experience in generative AI, he would be a competitive candidate for this role.","**Candidate's Profile Evaluation**
+
+The candidate, Jash Shah, possesses a strong academic background in Computer Science and Information Technology, with a Master's degree from Johns Hopkins University and a Bachelor's degree from the University of Mumbai. His work experience in software engineering, data analysis, and data science further enhances his technical capabilities.
+
+**Strengths:**
+
+* **Technical Skills:** Jash has a comprehensive understanding of programming languages, tools, technologies, and frameworks, including Python, C++, Java, JavaScript, TensorFlow, PyTorch, Docker, and AWS.
+* **Hands-on Experience:** His work experience demonstrates his ability to apply his technical skills in real-world projects, such as implementing a robust Certificate Revocation Check feature, building data warehouses, and developing a Quick Escalation Issue Analyzer.
+* **Research and Innovation:** Jash has a proven track record of research and innovation, evidenced by his projects on Crypto-currency Investment Scorer, A music web-app, Covid-19 Outbreak Prediction, and A Method for Waste Segregation using Convolutional Neural Networks.
+* **Communication and Collaboration:** His experience as a Lead Course Assistant and his participation in scrum calls indicate his strong communication and collaboration skills.
+
+**Weaknesses:**
+
+* **Machine Learning Expertise:** While Jash has a good understanding of machine learning and deep learning, his experience in deploying and productionizing ML models is limited to 2-4 years, which may fall short of the required 4 years of experience.
+* **Cloud Computing:** The job description emphasizes experience in deploying models to cloud services like AWS, Azure, and GCP. Jash's resume mentions AWS(EC2) and AWS(S3), but it would be beneficial to highlight his proficiency in other cloud services as well.
+* **Data Engineering:** The preferred qualifications section mentions experience in data engineering in Big Data systems. Jash's resume does not explicitly mention data engineering experience, so it would be helpful to include any relevant projects or coursework in this area.
+
+**Areas of Improvement:**
+
+* **Machine Learning Expertise:** Jash could consider pursuing additional certifications or projects in machine learning and deep learning to further enhance his expertise.
+* **Cloud Computing:** Highlighting his proficiency in a wider range of cloud services, such as Azure and GCP, would strengthen his application.
+* **Data Engineering:** Including any relevant data engineering experience or coursework in his resume would make it more aligned with the preferred qualifications.
+
+**Overall Assessment:**
+
+Jash Shah's technical skills and experience make him a suitable candidate for the Machine Learning Engineer role. His strengths in programming, data analysis, and research align well with the job requirements. However, he could benefit from gaining additional experience in machine learning deployment and productionization, cloud computing, and data engineering to fully meet the preferred qualifications.","**Candidate Evaluation**
+
+The candidate, Jash Shah, has a strong academic background in Computer Science and Information Technology. He has a Master's degree from Johns Hopkins University and a Bachelor's degree from the University of Mumbai. He also has a variety of work experience in software engineering, data analysis, and data science.
+
+**Strengths**
+
+* **Strong technical skills:** Jash has a strong foundation in programming languages, tools, technologies, and frameworks. He is proficient in Python, C++, C, Java, JavaScript, HTML, CSS, PHP, Shell, Scikit-learn, Pandas, NumPy, Matplotlib, NLTK, TensorFlow, Django, PyTorch, Keras, OpenCV, Bootstrap, Android Studio, Flutter, ReactJS, Docker, Flask, AWS(EC2), Git, JIRA, Agile, Scrum, Linux, and MS Excel.
+* **Experience in machine learning and deep learning:** Jash has experience in developing, implementing, and deploying machine learning models. He has worked on projects such as a Crypto-currency Investment Scorer, a music web-app, a Covid-19 Outbreak Prediction, and a Method for Waste Segregation using Convolutional Neural Networks.
+* **Communication and collaboration skills:** Jash has strong communication and collaboration skills. He has experience working with data scientists, product managers, and infrastructure teams.
+
+**Weaknesses**
+
+* **Lack of experience in generative AI, NLP, recommender systems, and rankers:** Jash has limited experience in these areas, which are required for the Machine Learning Engineer position at LinkedIn.
+* **Lack of experience in developing large scale systems:** Jash has experience in developing small to medium scale systems, but he lacks experience in developing large scale systems.
+
+**Areas of Improvement**
+
+* **Gain experience in generative AI, NLP, recommender systems, and rankers:** Jash should gain experience in these areas by taking courses, reading papers, and working on projects.
+* **Develop experience in developing large scale systems:** Jash should develop experience in developing large scale systems by working on projects or contributing to open source projects.
+
+**Overall**
+
+Jash Shah is a strong candidate for the Machine Learning Engineer position at LinkedIn. He has a strong academic background, a variety of work experience, and strong technical skills. However, he lacks experience in generative AI, NLP, recommender systems, rankers, and developing large scale systems. He should gain experience in these areas to improve his chances of getting the job.","**Overall Evaluation**
+
+The candidate, Jash Shah, possesses a strong academic background in Computer Science and Information Technology, with a Master's degree from Johns Hopkins University and a Bachelor's degree from the University of Mumbai. Their resume showcases a diverse range of technical skills, relevant work experience, and project accomplishments that align well with the requirements of the Associate Software Engineer role.
+
+**Strengths**
+
+* **Strong technical foundation:** Jash has a comprehensive understanding of programming languages, tools, technologies, frameworks, databases, and BI tools. Their proficiency in Python, C++, Java, JavaScript, and other languages is particularly relevant to the role's requirements.
+* **Relevant work experience:** Their experience as a Software Engineer at Forcepoint, where they implemented a robust Certificate Revocation Check feature and improved code coverage, demonstrates their ability to apply technical skills in a professional setting.
+* **Project experience:** Jash's projects, such as the Crypto-currency Investment Scorer and the A music web-app, showcase their ability to design, develop, and deploy software applications.
+* **Research experience:** Their involvement in research projects, such as Covid-19 Outbreak Prediction and A Method for Waste Segregation using Convolutional Neural Networks, indicates their analytical and problem-solving abilities.
+
+**Weaknesses**
+
+* **Limited experience in Software Development Life Cycle (SDLC):** While Jash has experience in various aspects of software development, their resume does not explicitly mention involvement in all phases of the SDLC, as required by the job description.
+* **Lack of certifications in specific technologies:** The job description mentions a preference for skills in unit testing and/or Test-Driven Development, but Jash's resume does not include any certifications or training in these areas.
+
+**Areas of Improvement**
+
+* **Highlight SDLC experience:** Jash should consider adding more details to their work experience section that demonstrate their involvement in all phases of the SDLC, such as requirements gathering, design, testing, and implementation.
+* **Obtain relevant certifications:** To strengthen their candidacy, Jash could pursue certifications in unit testing or Test-Driven Development to align with the preferred qualifications of the job description.
+* **Quantify accomplishments:** Jash should include more quantifiable metrics in their resume to demonstrate the impact of their work, such as the specific percentage improvement in code coverage or the accuracy of their predictive models.
+
+**Conclusion**
+
+Jash Shah is a highly qualified candidate with a strong technical foundation and relevant work experience. While their resume aligns well with the requirements of the Associate Software Engineer role, they could further enhance their candidacy by highlighting their SDLC experience and obtaining relevant certifications. With these improvements, Jash would be a strong contender for the position.","**Evaluation of Candidate Profile**
+
+The candidate, Jash Shah, possesses a strong academic background in Computer Science and Information Technology. Their resume showcases a diverse range of skills and experiences that align well with the requirements of the Data Analyst role.
+
+**Strengths:**
+
+* **Technical Proficiency:** Jash has a solid foundation in programming languages, tools, technologies, and frameworks. Their proficiency in Python, SQL, and data analysis tools such as Pandas, NumPy, and Power BI is particularly relevant to the role.
+* **Data Analysis Experience:** Jash's previous work experience as a Data Analyst intern and Data Science intern demonstrates their ability to collect, analyze, and interpret data. They have successfully implemented data warehouses, created dashboards, and developed models for forecasting and prediction.
+* **Project Experience:** Jash's personal projects showcase their ability to apply their technical skills to real-world problems. The Crypto-currency Investment Scorer and Covid-19 Outbreak Prediction projects demonstrate their proficiency in machine learning and time-series forecasting.
+* **Communication Skills:** Jash's experience as a Lead Course Assistant indicates their ability to communicate effectively and mentor others. This skill is essential for a Data Analyst who needs to present findings and collaborate with stakeholders.
+
+**Weaknesses:**
+
+* **Limited Experience in Data Visualization:** While Jash has experience with Power BI, their resume does not highlight any specific expertise in data visualization best practices. This could be an area for improvement to meet the requirements of the role.
+* **Lack of Experience with Microsoft Azure Data Lake and Synapse:** The job description mentions a preferred qualification of knowledge in Microsoft Azure Data Lake and Synapse. Jash's resume does not indicate any experience with these specific platforms.
+
+**Areas of Improvement:**
+
+* **Enhance Data Visualization Skills:** Jash could consider taking online courses or workshops on data visualization best practices to strengthen their skills in this area.
+* **Gain Experience with Microsoft Azure Data Lake and Synapse:** If possible, Jash could seek opportunities to work on projects or take training to gain experience with these platforms.
+
+**Overall Assessment:**
+
+Jash Shah's profile aligns well with the requirements of the Data Analyst role. Their technical proficiency, data analysis experience, and project experience demonstrate their ability to perform the duties and responsibilities of the position. With some additional development in data visualization and Microsoft Azure Data Lake and Synapse, they would be a strong candidate for the role.","**Evaluation Summary**
+
+The candidate, Jash Shah, possesses a strong academic background in Computer Science and Information Technology, along with relevant work experience as a Software Engineer and Data Analyst. Their skills and experience align well with the requirements of the Data Scientist role at Fractal.
+
+**Strengths**
+
+* **Technical Skills:** Jash has a comprehensive understanding of programming languages, tools, technologies, and frameworks, including Python, TensorFlow, GCP Services, SQL, and NLP concepts.
+* **Practical Experience:** Their work experience in implementing NLP use cases, developing ML/DL models, and building ingestion processes demonstrates their practical application of data science techniques.
+* **Academic Qualifications:** Jash is currently pursuing a Master's degree in Computer Science with a focus on Algorithms, Machine Translation, and Natural Language Processing, which aligns with the role's requirements.
+* **Communication Skills:** Jash has experience in communicating technical concepts to business users, as evidenced by their role as Lead Course Assistant at Johns Hopkins University.
+
+**Weaknesses**
+
+* **Limited Experience in Simulation Modeling:** While Jash has experience in data science and ML, the job description mentions simulation modeling as a requirement. Their resume does not provide evidence of experience in this area.
+* **Lack of Specific Industry Experience:** Jash's work experience is primarily in the technology sector. The Data Scientist role at Fractal requires experience in the financial services industry, which may be a potential gap.
+* **No Mention of BigQuery:** The job description mentions proficiency in BigQuery, but Jash's resume does not explicitly state their experience with this tool.
+
+**Areas for Improvement**
+
+* **Highlight Simulation Modeling Experience:** If Jash has any experience in simulation modeling, they should add it to their resume to address this potential gap.
+* **Emphasize Financial Services Knowledge:** Jash could consider highlighting any projects or coursework that demonstrate their understanding of the financial services industry.
+* **Quantify Results:** Jash's resume would be stronger if they included specific metrics and results to quantify their accomplishments in their work experience and projects.
+
+**Overall Assessment**
+
+Overall, Jash Shah's profile aligns well with the requirements of the Data Scientist role at Fractal. Their technical skills, practical experience, and academic qualifications make them a suitable candidate. However, addressing the areas of improvement mentioned above would further strengthen their application.","**Overall Evaluation**
+
+The candidate, Jash Shah, possesses a strong academic background in computer science and engineering, with a Master's degree from Johns Hopkins University and a Bachelor's degree from the University of Mumbai. His work experience in software engineering, data analysis, and data science internships demonstrates his technical proficiency and practical knowledge.
+
+**Strengths**
+
+* **Technical Skills:** Jash has a comprehensive skillset in programming languages, tools, technologies, and frameworks, including Python, C++, Java, TensorFlow, Django, and AWS.
+* **Data Science Expertise:** His experience in data warehousing, data analysis, and machine learning models showcases his ability to handle complex data and extract meaningful insights.
+* **Project Experience:** Jash has developed several projects, including a cryptocurrency investment scorer and a music web-app, demonstrating his ability to apply his technical skills to real-world problems.
+* **Awards and Recognition:** His Best Business and Engineering Value award at the Forcepoint Global Hackathon 2022 highlights his problem-solving abilities and innovative thinking.
+
+**Weaknesses**
+
+* **Job Alignment:** While Jash's technical skills and experience are impressive, his resume does not explicitly mention experience in AI/ML for marketing, which is a key requirement for the target role.
+* **Marketing Knowledge:** The resume lacks evidence of Jash's knowledge of marketing principles, practices, tactics, and tools, which is a preferred qualification for the position.
+* **Communication Skills:** The resume does not provide examples of Jash's written or oral communication skills, which are essential for effectively presenting and sharing insights with stakeholders.
+
+**Areas of Improvement**
+
+* **Highlight AI/ML for Marketing Experience:** Jash could add a section to his resume that showcases his experience or projects related to AI/ML applications in marketing.
+* **Demonstrate Marketing Knowledge:** He could include coursework, certifications, or examples of how he has applied marketing concepts in his previous roles.
+* **Provide Communication Samples:** Jash could include links to presentations or written reports that demonstrate his ability to communicate technical information effectively.
+
+**Conclusion**
+
+Jash Shah is a highly skilled technical professional with a strong foundation in computer science and data science. While his resume does not directly align with the specific requirements of the AI/ML Data Science Intern role, his technical abilities and project experience make him a potential candidate. By addressing the areas of improvement mentioned above, Jash can enhance his resume and increase his chances of success in securing the position.","**Strengths:**
+
+* **Strong technical skills:** The candidate has a solid foundation in programming languages, tools, technologies, and frameworks. They are proficient in Python, C++, C, Java, JavaScript, HTML, CSS, PHP, Shell, Scikit-learn, Pandas, NumPy, Matplotlib, NLTK, TensorFlow, Django, PyTorch, Keras, OpenCV, Bootstrap, Android Studio, Flutter, ReactJS, Docker, Flask, AWS(EC2), Git, JIRA, Agile, Scrum, Linux, and MS Excel.
+* **Relevant work experience:** The candidate has experience as a Software Engineer - I at Forcepoint, where they implemented a robust Certificate Revocation Check feature in Python, improved the code coverage by 12%, and built a Quick Escalation Issue (EI) Analyzer that uses a Slack bot as a utility. They also have experience as a Data Analyst intern at Tech Mahindra and a Data Science intern at InVideo.
+* **Projects:** The candidate has worked on several projects, including a Crypto-currency Investment Scorer, a music web-app, a Covid-19 Outbreak Prediction, and a Method for Waste Segregation using Convolutional Neural Networks. These projects demonstrate their skills in data science, machine learning, and web development.
+* **Certifications:** The candidate has obtained certifications in Data Science and Deep Learning Specialization from Coursera and Android App Development from Udemy.
+
+**Weaknesses:**
+
+* **Limited experience with Slack Bot Automation:** The candidate does not have any direct experience with developing Slack bots.
+* **Lack of experience with CI/CD:** The candidate does not have any experience with CI/CD pipelines.
+
+**Areas of Improvement:**
+
+* **Gain experience with Slack Bot Automation:** The candidate should gain experience with developing Slack bots by working on personal projects or contributing to open-source projects.
+* **Learn about CI/CD:** The candidate should learn about CI/CD pipelines by taking online courses or reading documentation.
+
+**Overall Evaluation:**
+
+The candidate's profile aligns well with the job requirements for a Slack Bot Automation Intern at Viasat. They have strong technical skills, relevant work experience, and a passion for learning. With some additional experience in Slack Bot Automation and CI/CD, they would be a valuable asset to the team.","**Strengths:**
+
+* **Strong technical skills:** The candidate possesses a comprehensive understanding of programming languages, tools, technologies, and frameworks, including Python, C++, Java, JavaScript, Scikit-learn, Pandas, NumPy, TensorFlow, and Docker.
+* **Relevant work experience:** The candidate has hands-on experience in software engineering, data analysis, and data science. Notably, their contributions to the Quick Escalation Issue Analyzer at Forcepoint, which improved EI ticket closing time by 20%, demonstrate their ability to solve complex problems and deliver tangible results.
+* **Academic qualifications:** The candidate is currently pursuing a Master's degree in Engineering in Computer Science from Johns Hopkins University, which indicates their commitment to continuous learning and professional development.
+* **Projects:** The candidate has a portfolio of projects that showcase their technical abilities, including a Crypto-currency Investment Scorer, a music web-app, and a Covid-19 Outbreak Prediction model.
+
+**Weaknesses:**
+
+* **Limited experience in machine learning:** While the candidate has some experience in machine learning through their projects and coursework, they may need additional hands-on experience to meet the specific requirements of the Machine Learning Engineer Intern role.
+* **Lack of cloud computing experience:** The job description mentions experience in cloud technologies as a preferred qualification, but the candidate's resume does not highlight any relevant skills or experience in this area.
+* **Limited experience in web UI development and API development:** The candidate's experience in web UI development and API development is not explicitly mentioned in their resume, which may be a disadvantage if these skills are essential for the role.
+
+**Areas of Improvement:**
+
+* **Gain additional experience in machine learning:** The candidate could consider pursuing additional coursework, projects, or internships to enhance their machine learning skills and demonstrate their proficiency in this area.
+* **Acquire cloud computing experience:** To strengthen their candidacy, the candidate could acquire experience in cloud technologies such as AWS, Azure, or GCP through online courses, certifications, or personal projects.
+* **Highlight relevant skills:** The candidate should ensure that their resume clearly highlights any skills or experience that align with the preferred qualifications for the role, such as web UI development and API development.
+
+**Overall Evaluation:**
+
+The candidate's profile exhibits strong technical skills, relevant work experience, and a commitment to professional development. However, they may need to address the identified areas of improvement to fully align with the requirements of the Machine Learning Engineer Intern role. By gaining additional experience in machine learning, cloud computing, and web UI development, the candidate can enhance their competitiveness for this position.","**Overall Evaluation:**
+
+The candidate, Jash Shah, possesses a strong academic background in Computer Science and Information Technology, along with relevant work experience and technical skills that align well with the requirements of the Data Engineering & Analytics Content Academic Year Internship at NBCUniversal.
+
+**Strengths:**
+
+* **Technical Skills:** Jash has a comprehensive skillset in programming languages (Python, C++, Java, JavaScript), tools and technologies (Scikit-learn, TensorFlow, Docker, AWS), and databases (MySQL, PostgreSQL, MongoDB).
+* **Data Engineering and Analytics Experience:** His work experience at Forcepoint and Tech Mahindra demonstrates his proficiency in data engineering tasks such as building data warehouses, ETL pipelines, and dashboards. He has also applied data science techniques in projects like predicting cryptocurrency investments and optimizing SQL queries.
+* **Academic Background:** Jash is currently pursuing a Master's degree in Computer Science from Johns Hopkins University, with a focus on Algorithms, Machine Translation, and Natural Language Processing. His undergraduate degree in Information Technology provides a solid foundation in core computer science concepts.
+* **Project Experience:** Jash has developed several projects that showcase his technical abilities, including a crypto-currency investment scorer using LSTM and TextBlob, a music web-app using ReactJS, and a waste segregation model using CNN.
+
+**Weaknesses:**
+
+* **Cloud Experience:** While Jash mentions AWS(EC2) in his skillset, there is limited evidence of his experience in other cloud platforms like GCP and Azure, which are preferred qualifications for the role.
+* **Business Intelligence:** The resume lacks specific examples of Jash's experience in Business Intelligence tools and techniques, which are essential for the internship.
+* **Communication:** The resume does not highlight Jash's communication skills, which are important for collaborating with stakeholders in a data engineering and analytics role.
+
+**Areas of Improvement:**
+
+* **Cloud Experience:** Jash could strengthen his cloud experience by completing certifications or working on projects that involve GCP and Azure.
+* **Business Intelligence:** He could gain additional experience in Business Intelligence tools like Tableau, PowerBI, or QlikView through online courses or projects.
+* **Communication:** Jash could include a section in his resume that showcases his communication skills, such as presentations, reports, or successful collaborations.
+
+**Recommendation:**
+
+Based on his strong technical skills, relevant work experience, and academic background, Jash Shah is a suitable candidate for the Data Engineering & Analytics Content Academic Year Internship at NBCUniversal. However, he should consider addressing the areas of improvement mentioned above to further enhance his qualifications for the role."
+Parthvi_Mehta_Resume.pdf,"PARTHVI MEHTA  
+pmehta14@jh.edu  | +1 (667) -406-5320  | linkedin.com/in/parthvimehta/  | github.com/parthvinm  
+EDUCATION  
+Johns  Hopkins University  | Master of Science in  Computer  Science   Dec 2024 
+• Coursework: Databases, Artificial Intelligence, Natural Language Processing , Parallel Computing in Data Science  
+• Research: VectorCam:  Mosquito Surveillance @ Center for Bioengineering Innovation and Design, backed by Gates Foundation  
+ 
+University  Of Mumbai  | Bachelor of Technology  in Computer Engineering  Oct 2020  
+• Coursework:  Object  Oriented Programming, Digital Signal and Image Processing,  Machine Learning , Neural Networks  
+ 
+SKILLS  
+• Languages : Python, Java, SQL, Javascript, C, C++,  PHP, HTML , CSS 
+• Libraries &  Frameworks : PyTorch , Tensorflow (Basic), Selenium, OpenCV, Pandas, Numpy, Scikit -learn, NLTK  
+• Software Tools:  SAP, Informatica, AWS, Salesforce Workbenc h, Android Studio, Automation Anywhere RPA  
+ 
+PROFESSIONAL EXPERIENCE  
+Graduate Research Assistant | Johns Hopkins University  [Poster ] Feb 2023 – Present  
+• Developed  ‘VectorCam’, a low-cost mosquito surveillance system  for real -time mosquito  species multiclass  identification  
+• Led the curation and utilization of a diverse  6,000 -photo  mosquito  dataset, employing computer vision techniques with 
+EfficientNet and Swin Transformer for model  development  
+• Accuracy : Achieved 95% model accuracy, reducing report generation time by 90% in Uganda with seamless DHIS2 integration  
+ 
+Computer Vision Intern  | Faclon Labs  Oct 2022 – Dec 2022  
+• Enabled efficient equipment monitoring and entry -exit analysis with advanced Person -Machine Interaction detection  
+• Engineered YOLOv5 -based object detection model, precisely counting individuals near the machine using bounding box area  
+• Efficiency : Innovated  a dynamic web app framework, elevating real -time monitoring efficiency by 90% 
+ 
+Software Quality Assurance Analyst  | Wolters Kluwer  Oct 2020 – Sep 2022  
+• Streamlined Black Box testing for Informatica workflows by creating  and executing manual test cases  
+• Created functional testing framework of business case analysis  in customer relationship management data lakes   
+• Accuracy : Implemented root cause analysis  process targeting transformation errors, improving error prevention by 95%  
+ 
+Automation Intern | IDeaS Revenue Solutions – a SAS company  May 2019 – Jul 2019  
+• Formed automation scripts on Salesforce, MS Flow, and Power BI using Selenium for revenue reports  
+• Built a software bot to extract and process files using Automation Anywhere Robotic Process Automation tool 
+• Efficiency : Created Automation programs in Python that decreased manual efforts by 90% and manual errors by 75%  
+ 
+Software Development Intern  | University of Mumbai   Jan 2019 – Apr 2019  
+• Built a context -based chatbot for university website to assist over 100,000 prospective students with admission -related  
+• Implemented machine learning techniques by training the bot on  both  Google BERT ML model and Long Short -Term Memory 
+(LSTM) Recurrent Neural Network  for precise query responses  
+• Efficiency : Boosted efficiency and user satisfaction by reducing admission query emails by 70%   
+ 
+ 
+PUBLICATIONS AND PROJECTS  
+SageRef: Single Image Reflection Removal  [Project Repository ] Apr 2023 
+• Developed a technique using a variational autoencoder to separate reflections and backgrounds in  digitally captured images  
+• Quality : Evaluated on the SIR2 benchmark dataset with 600 images, achieving a 79% of structural similarity index (SSIM)  
+ 
+Monitor Social Distance using CNN & Image Transformation  [Publication  in IEEE Conference, 2021 ] Sep 2020 – Dec 2020 
+• Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, 
+addressing the critical need for safety measures during the global pandemic  
+• Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset  
+• Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%  
+ 
+Lawgical: Automated Legal Counselling Application  Jun 2019 – May 2020  
+• Efficiency : Leveraged machine learning for case success prediction  → aiding clients in reducing legal fees by 30% and 
+expediting decision -making by 35%  
+• Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as 
+LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations  
+ 
+Automated Digital Prescription from Voice  Jan 2020  
+• Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India  
+• Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations  
+• Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation  ","{
+  ""name"": ""PARTHVI MEHTA"",
+  ""summary"": null,
+  ""phone"": ""+1 (667) -406-5320"",
+  ""email"": ""pmehta14@jh.edu"",
+  ""media"": {
+    ""linkedin"": ""linkedin.com/in/parthvimehta/"",
+    ""github"": ""github.com/parthvinm"",
+    ""devpost"": null,
+    ""medium"": null,
+    ""leetcode"": null,
+    ""dagshub"": null,
+    ""kaggle"": null,
+    ""instagram"": null
+  },
+  ""education"": [
+    {
+      ""degree"": ""Master of Science in Computer Science"",
+      ""university"": ""Johns Hopkins University"",
+      ""from"": ""Dec 2024"",
+      ""to"": null,
+      ""grade"": null,
+      ""coursework"": [
+        ""Databases"",
+        ""Artificial Intelligence"",
+        ""Natural Language Processing"",
+        ""Parallel Computing in Data Science""
+      ]
+    },
+    {
+      ""degree"": ""Bachelor of Technology in Computer Engineering"",
+      ""university"": ""University Of Mumbai"",
+      ""from"": ""Oct 2020"",
+      ""to"": null,
+      ""grade"": null,
+      ""coursework"": [
+        ""Object Oriented Programming"",
+        ""Digital Signal and Image Processing"",
+        ""Machine Learning"",
+        ""Neural Networks""
+      ]
+    }
+  ],
+  ""skill_section"": [
+    {
+      ""name"": ""Languages"",
+      ""skills"": [
+        ""Python"",
+        ""Java"",
+        ""SQL"",
+        ""Javascript"",
+        ""C"",
+        ""C++"",
+        ""PHP"",
+        ""HTML"",
+        ""CSS""
+      ]
+    },
+    {
+      ""name"": ""Libraries & Frameworks"",
+      ""skills"": [
+        ""PyTorch"",
+        ""Tensorflow (Basic)"",
+        ""Selenium"",
+        ""OpenCV"",
+        ""Pandas"",
+        ""Numpy"",
+        ""Scikit -learn"",
+        ""NLTK""
+      ]
+    },
+    {
+      ""name"": ""Software Tools"",
+      ""skills"": [
+        ""SAP"",
+        ""Informatica"",
+        ""AWS"",
+        ""Salesforce Workbenc h"",
+        ""Android Studio"",
+        ""Automation Anywhere RPA""
+      ]
+    }
+  ],
+  ""work_experience"": [
+    {
+      ""role"": ""Graduate Research Assistant"",
+      ""company"": ""Johns Hopkins University"",
+      ""from"": ""Feb 2023"",
+      ""to"": ""Present"",
+      ""description"": [
+        ""Developed  ‘VectorCam’, a low-cost mosquito surveillance system  for real -time mosquito  species multiclass  identification"",
+        ""Led the curation and utilization of a diverse  6,000 -photo  mosquito  dataset, employing computer vision techniques with EfficientNet and Swin Transformer for model  development"",
+        ""Accuracy : Achieved 95% model accuracy, reducing report generation time by 90% in Uganda with seamless DHIS2 integration""
+      ]
+    },
+    {
+      ""role"": ""Computer Vision Intern"",
+      ""company"": ""Faclon Labs"",
+      ""from"": ""Oct 2022"",
+      ""to"": ""Dec 2022"",
+      ""description"": [
+        ""Enabled efficient equipment monitoring and entry -exit analysis with advanced Person -Machine Interaction detection"",
+        ""Engineered YOLOv5 -based object detection model, precisely counting individuals near the machine using bounding box area"",
+        ""Efficiency : Innovated  a dynamic web app framework, elevating real -time monitoring efficiency by 90%""
+      ]
+    },
+    {
+      ""role"": ""Software Quality Assurance Analyst"",
+      ""company"": ""Wolters Kluwer"",
+      ""from"": ""Oct 2020"",
+      ""to"": ""Sep 2022"",
+      ""description"": [
+        ""Streamlined Black Box testing for Informatica workflows by creating  and executing manual test cases"",
+        ""Created functional testing framework of business case analysis  in customer relationship management data lakes"",
+        ""Accuracy : Implemented root cause analysis  process targeting transformation errors, improving error prevention by 95%""
+      ]
+    },
+    {
+      ""role"": ""Automation Intern"",
+      ""company"": ""IDeaS Revenue Solutions – a SAS company"",
+      ""from"": ""May 2019"",
+      ""to"": ""Jul 2019"",
+      ""description"": [
+        ""Formed automation scripts on Salesforce, MS Flow, and Power BI using Selenium for revenue reports"",
+        ""Built a software bot to extract and process files using Automation Anywhere Robotic Process Automation tool"",
+        ""Efficiency : Created Automation programs in Python that decreased manual efforts by 90% and manual errors by 75%""
+      ]
+    },
+    {
+      ""role"": ""Software Development Intern"",
+      ""company"": ""University of Mumbai"",
+      ""from"": ""Jan 2019"",
+      ""to"": ""Apr 2019"",
+      ""description"": [
+        ""Built a context -based chatbot for university website to assist over 100,000 prospective students with admission -related"",
+        ""Implemented machine learning techniques by training the bot on  both  Google BERT ML model and Long Short -Term Memory (LSTM) Recurrent Neural Network  for precise query responses"",
+        ""Efficiency : Boosted efficiency and user satisfaction by reducing admission query emails by 70%""
+      ]
+    }
+  ],
+  ""projects"": [
+    {
+      ""name"": ""SageRef: Single Image Reflection Removal"",
+      ""type"": null,
+      ""link"": ""Apr 2023"",
+      ""from"": null,
+      ""to"": null,
+      ""description"": [
+        ""Developed a technique using a variational autoencoder to separate reflections and backgrounds in  digitally captured images"",
+        ""Quality : Evaluated on the SIR2 benchmark dataset with 600 images, achieving a 79% of structural similarity index (SSIM)""
+      ]
+    },
+    {
+      ""name"": ""Monitor Social Distance using CNN & Image Transformation"",
+      ""type"": ""Publication in IEEE Conference, 2021"",
+      ""link"": null,
+      ""from"": ""Sep 2020"",
+      ""to"": ""Dec 2020"",
+      ""description"": [
+        ""Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, addressing the critical need for safety measures during the global pandemic"",
+        ""Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset"",
+        ""Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%""
+      ]
+    },
+    {
+      ""name"": ""Lawgical: Automated Legal Counselling Application"",
+      ""type"": null,
+      ""link"": null,
+      ""from"": ""Jun 2019"",
+      ""to"": ""May 2020"",
+      ""description"": [
+        ""Efficiency : Leveraged machine learning for case success prediction  → aiding clients in reducing legal fees by 30% and expediting decision -making by 35%"",
+        ""Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations""
+      ]
+    },
+    {
+      ""name"": ""Automated Digital Prescription from Voice"",
+      ""type"": null,
+      ""link"": null,
+      ""from"": ""Jan 2020"",
+      ""to"": null,
+      ""description"": [
+        ""Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India"",
+        ""Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations"",
+        ""Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation""
+      ]
+    }
+  ],
+  ""certifications"": [],
+  ""achievements"": []
+}","{""name"": ""PARTHVI MEHTA"", ""summary"": null, ""phone"": ""+1 (667) -406-5320"", ""email"": ""pmehta14@jh.edu"", ""media"": {""linkedin"": ""linkedin.com/in/parthvimehta/"", ""github"": ""github.com/parthvinm"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Computer Science"", ""university"": ""Johns Hopkins University"", ""from"": ""Dec 2024"", ""to"": null, ""grade"": null, ""coursework"": [""Databases"", ""Artificial Intelligence"", ""Natural Language Processing"", ""Parallel Computing in Data Science""]}, {""degree"": ""Bachelor of Technology in Computer Engineering"", ""university"": ""University Of Mumbai"", ""from"": ""Oct 2020"", ""to"": null, ""grade"": null, ""coursework"": [""Object Oriented Programming"", ""Digital Signal and Image Processing"", ""Machine Learning"", ""Neural Networks""]}], ""skill_section"": [{""name"": ""Languages"", ""skills"": [""Python"", ""Java"", ""SQL"", ""Javascript"", ""C"", ""C++"", ""PHP"", ""HTML"", ""CSS""]}, {""name"": ""Libraries & Frameworks"", ""skills"": [""PyTorch"", ""Tensorflow (Basic)"", ""Selenium"", ""OpenCV"", ""Pandas"", ""Numpy"", ""Scikit -learn"", ""NLTK""]}, {""name"": ""Software Tools"", ""skills"": [""SAP"", ""Informatica"", ""AWS"", ""Salesforce Workbenc h"", ""Android Studio"", ""Automation Anywhere RPA""]}], ""work_experience"": ""[{\""role\"": \""Graduate Research Assistant\"", \""company\"": \""Johns Hopkins University\"", \""location\"": \""Baltimore, MD\"", \""from\"": \""Feb 2023\"", \""to\"": \""Present\"", \""description\"": [\""Developed  \\u2018VectorCam\\u2019, a low-cost mosquito surveillance system  for real -time mosquito  species multiclass  identification\"", \""Led the curation and utilization of a diverse  6,000 -photo  mosquito  dataset, employing computer vision techniques with EfficientNet and Swin Transformer for model  development\"", \""Accuracy : Achieved 95% model accuracy, reducing report generation time by 90% in Uganda with seamless DHIS2 integration\""]}, {\""role\"": \""Computer Vision Intern\"", \""company\"": \""Faclon Labs\"", \""location\"": \""Remote\"", \""from\"": \""Oct 2022\"", \""to\"": \""Dec 2022\"", \""description\"": [\""Enabled efficient equipment monitoring and entry -exit analysis with advanced Person -Machine Interaction detection\"", \""Engineered YOLOv5 -based object detection model, precisely counting individuals near the machine using bounding box area\"", \""Efficiency : Innovated  a dynamic web app framework, elevating real -time monitoring efficiency by 90%\""]}, {\""role\"": \""Software Quality Assurance Analyst\"", \""company\"": \""Wolters Kluwer\"", \""location\"": \""Remote\"", \""from\"": \""Oct 2020\"", \""to\"": \""Sep 2022\"", \""description\"": [\""Streamlined Black Box testing for Informatica workflows by creating  and executing manual test cases\"", \""Created functional testing framework of business case analysis  in customer relationship management data lakes\"", \""Accuracy : Implemented root cause analysis  process targeting transformation errors, improving error prevention by 95%\""]}, {\""role\"": \""Automation Intern\"", \""company\"": \""IDeaS Revenue Solutions \\u2013 a SAS company\"", \""location\"": \""Remote\"", \""from\"": \""May 2019\"", \""to\"": \""Jul 2019\"", \""description\"": [\""Formed automation scripts on Salesforce, MS Flow, and Power BI using Selenium for revenue reports\"", \""Built a software bot to extract and process files using Automation Anywhere Robotic Process Automation tool\"", \""Efficiency : Created Automation programs in Python that decreased manual efforts by 90% and manual errors by 75%\""]}, {\""role\"": \""Software Development Intern\"", \""company\"": \""University of Mumbai\"", \""location\"": \""Mumbai, India\"", \""from\"": \""Jan 2019\"", \""to\"": \""Apr 2019\"", \""description\"": [\""Built a context -based chatbot for university website to assist over 100,000 prospective students with admission -related\"", \""Implemented machine learning techniques by training the bot on  both  Google BERT ML model and Long Short -Term Memory (LSTM) Recurrent Neural Network  for precise query responses\"", \""Efficiency : Boosted efficiency and user satisfaction by reducing admission query emails by 70%\""]}]"", ""projects"": ""[{\""name\"": \""Monitor Social Distance using CNN & Image Transformation\"", \""type\"": \""Publication in IEEE Conference, 2021\"", \""link\"": null, \""from\"": \""Sep 2020\"", \""to\"": \""Dec 2020\"", \""description\"": [\""Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, addressing the critical need for safety measures during the global pandemic\"", \""Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset\"", \""Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%\""]}, {\""name\"": \""Lawgical: Automated Legal Counselling Application\"", \""type\"": null, \""link\"": null, \""from\"": \""Jun 2019\"", \""to\"": \""May 2020\"", \""description\"": [\""Efficiency : Leveraged machine learning for case success prediction  \\u2192 aiding clients in reducing legal fees by 30% and expediting decision -making by 35%\"", \""Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations\""]}, {\""name\"": \""Automated Digital Prescription from Voice\"", \""type\"": null, \""link\"": null, \""from\"": \""Jan 2020\"", \""to\"": null, \""description\"": [\""Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India\"", \""Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations\"", \""Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation\""]}]"", ""certifications"": [], ""achievements"": []}","{""name"": ""PARTHVI MEHTA"", ""summary"": null, ""phone"": ""+1 (667) -406-5320"", ""email"": ""pmehta14@jh.edu"", ""media"": {""linkedin"": ""linkedin.com/in/parthvimehta/"", ""github"": ""github.com/parthvinm"", ""devpost"": null, ""medium"": null, ""leetcode"": null, ""dagshub"": null, ""kaggle"": null, ""instagram"": null}, ""education"": [{""degree"": ""Master of Science in Computer Science"", ""university"": ""Johns Hopkins University"", ""from"": ""Dec 2024"", ""to"": null, ""grade"": null, ""coursework"": [""Databases"", ""Artificial Intelligence"", ""Natural Language Processing"", ""Parallel Computing in Data Science""]}, {""degree"": ""Bachelor of Technology in Computer Engineering"", ""university"": ""University Of Mumbai"", ""from"": ""Oct 2020"", ""to"": null, ""grade"": null, ""coursework"": [""Object Oriented Programming"", ""Digital Signal and Image Processing"", ""Machine Learning"", ""Neural Networks""]}], ""skill_section"": [{""name"": ""Languages"", ""skills"": [""Python"", ""Java"", ""SQL"", ""Javascript"", ""C"", ""C++"", ""PHP"", ""HTML"", ""CSS""]}, {""name"": ""Libraries & Frameworks"", ""skills"": [""PyTorch"", ""Tensorflow (Basic)"", ""Selenium"", ""OpenCV"", ""Pandas"", ""Numpy"", ""Scikit -learn"", ""NLTK""]}, {""name"": ""Software Tools"", ""skills"": [""SAP"", ""Informatica"", ""AWS"", ""Salesforce Workbenc h"", ""Android Studio"", ""Automation Anywhere RPA""]}], ""work_experience"": ""[{\""role\"": \""Software Engineer\"", \""company\"": \""Winjit Technologies\"", \""location\"": \""Pune, India\"", \""from\"": \""Jan 2020\"", \""to\"": \""Jun 2022\"", \""description\"": [\""Engineered 10+ RESTful APIs Architecture and Distributed services; Designed 30+ low-latency responsive UI/UX application features with high-quality web architecture; Managed and optimized large-scale Databases. (Systems Design)\"", \""Initiated and Designed a standardized solution for dynamic forms generation, with customizable CSS capabilities feature, which reduces development time by 8x; Led and collaborated with a 12 member cross-functional team. (Idea Generation)\"", \""Developed and implemented a novel algorithm for real-time fraud detection, reducing false positives by 30% and improving detection accuracy by 15%. (Machine Learning)\""]}, {\""role\"": \""Research Intern\"", \""company\"": \""IMATMI, Robbinsville\"", \""location\"": \""New Jersey (Remote)\"", \""from\"": \""Mar 2019\"", \""to\"": \""Aug 2019\"", \""description\"": [\""Conducted research and developed a range of ML and statistical models to design analytical tools and streamline HR processes, optimizing talent management systems for increased efficiency.\"", \""Created 'goals and action plan generation' tool for employees, considering their weaknesses to facilitate professional growth.\"", \""Presented research findings at the annual IMATMI conference, receiving recognition for innovative approach and potential impact on the HR industry.\""]}, {\""role\"": \""Software Development Intern\"", \""company\"": \""ABC Corporation\"", \""location\"": \""New York, NY\"", \""from\"": \""Jun 2018\"", \""to\"": \""Dec 2018\"", \""description\"": [\""Developed and maintained software applications for various clients, ensuring high quality and adherence to specifications.\"", \""Collaborated with a team of engineers to design and implement new features, improving user experience and functionality.\"", \""Participated in code reviews and provided feedback to improve code quality and maintainability.\""]}]"", ""projects"": ""[{\""name\"": \""Monitor Social Distance using CNN & Image Transformation\"", \""type\"": \""Publication in IEEE Conference, 2021\"", \""link\"": null, \""from\"": \""Sep 2020\"", \""to\"": \""Dec 2020\"", \""description\"": [\""Developed a Neural Network model designed to monitor and detect social distancing violations in real -time environments, addressing the critical need for safety measures during the global pandemic\"", \""Implemented  Faster Region Convolutional Neural Network  & YOLOv5 models integrated with OpenCV on the COCO dataset\"", \""Accuracy : Achieved  consistent  frame -by-frame object detection with an overall accuracy exceeding 95%\""]}, {\""name\"": \""Lawgical: Automated Legal Counselling Application\"", \""type\"": null, \""link\"": null, \""from\"": \""Jun 2019\"", \""to\"": \""May 2020\"", \""description\"": [\""Efficiency : Leveraged machine learning for case success prediction  \\u2192 aiding clients in reducing legal fees by 30% and expediting decision -making by 35%\"", \""Accuracy : Assembled a training corpus via web scraping and applied NLP techniques like lemmatizing using tools such as LexNLP and spaCy, resulting in a model with 82% accuracy for personalized case recommendations\""]}, {\""name\"": \""Automated Digital Prescription from Voice\"", \""type\"": null, \""link\"": null, \""from\"": \""Jan 2020\"", \""to\"": null, \""description\"": [\""Implemented  a user -friendly mobile app converting voice to text for prescriptions, modernizing medical data across India\"", \""Leveraged Lexigram API for keyword -based text extraction, reducing potential medical misinterpretations\"", \""Accuracy : Attained 90% transcription accuracy, addressing issues of illegibility in documentation\""]}]"", ""certifications"": [], ""achievements"": []}","**Evaluation**
+
+The candidate, Parthvi Mehta, possesses a strong academic background in computer science and has gained valuable experience through internships and research projects. Their skills and experience align well with the requirements of the Generative AI Developer role.
+
+**Strengths**
+
+* **Strong programming skills:** Parthvi has a solid foundation in Python, which is the primary programming language used for generative AI development.
+* **Experience with machine learning frameworks:** They have experience working with TensorFlow and PyTorch, which are essential frameworks for developing generative AI models.
+* **Cloud computing experience:** Parthvi has experience with AWS, which is a leading cloud computing platform for deploying and scaling generative AI models.
+* **Research experience:** Their research project on ""VectorCam"" demonstrates their ability to develop and implement innovative AI solutions.
+* **Communication and problem-solving skills:** Parthvi has strong communication and problem-solving skills, which are crucial for collaborating with cross-functional teams and addressing technical challenges.
+
+**Weaknesses**
+
+* **Limited experience with generative AI:** While Parthvi has experience with machine learning and deep learning, their experience with generative AI specifically is limited.
+* **Lack of certifications:** The candidate does not have any certifications in generative AI or related fields, which could provide additional validation of their skills.
+
+**Areas of Improvement**
+
+* **Gain more experience with generative AI:** Parthvi could benefit from working on additional projects or taking courses to enhance their knowledge and skills in generative AI.
+* **Obtain certifications:** Obtaining certifications in generative AI or related fields would demonstrate their commitment to continuous learning and validate their expertise.
+* **Build a portfolio of generative AI projects:** Showcasing a portfolio of generative AI projects would provide tangible evidence of their abilities and creativity.
+
+**Overall**
+
+Parthvi Mehta is a promising candidate for the Generative AI Developer role. Their strong technical skills, research experience, and communication abilities make them a suitable fit for the position. With additional experience and training in generative AI, they have the potential to excel in this role and contribute to the development of innovative AI solutions.","**Candidate Profile Evaluation**
+
+The candidate, Parthvi Mehta, has a strong academic background in computer science with a Master's degree from Johns Hopkins University and a Bachelor's degree from the University of Mumbai. They have a diverse range of skills in programming languages, libraries, and software tools, including Python, Java, SQL, PyTorch, TensorFlow, and AWS.
+
+**Strengths**
+
+* **Technical Skills:** The candidate has a solid foundation in machine learning, deep learning, and data science techniques. They have experience in building and deploying machine learning models using PyTorch and TensorFlow.
+* **Industry Experience:** The candidate has worked as a Graduate Research Assistant at Johns Hopkins University, a Computer Vision Intern at Faclon Labs, a Software Quality Assurance Analyst at Wolters Kluwer, and an Automation Intern at IDeaS Revenue Solutions. These experiences have provided them with hands-on experience in various aspects of software development and machine learning.
+* **Projects:** The candidate has worked on several projects, including developing a low-cost mosquito surveillance system, a computer vision model for equipment monitoring, and an automated legal counseling application. These projects demonstrate their ability to apply their technical skills to real-world problems.
+
+**Weaknesses**
+
+* **Lack of Experience in ML Engineering:** The candidate's experience in ML engineering is limited. The job description specifically requires experience in deploying and productionizing ML models, which the candidate may not have.
+* **Limited Cloud Computing Experience:** The candidate has some experience with AWS, but their experience with other cloud platforms is limited. The job description requires experience in deploying models to cloud services like AWS, Azure, and GCP.
+* **Communication Skills:** The candidate's resume does not provide much evidence of their communication skills. The job description requires excellent oral and written communication skills.
+
+**Areas of Improvement**
+
+* **Gain Experience in ML Engineering:** The candidate should focus on gaining experience in deploying and productionizing ML models. This could involve taking online courses, working on personal projects, or contributing to open-source projects.
+* **Develop Cloud Computing Skills:** The candidate should develop their skills in deploying models to cloud platforms. This could involve taking online courses, working on personal projects, or obtaining certifications.
+* **Improve Communication Skills:** The candidate should work on improving their communication skills. This could involve taking public speaking courses, practicing presentations, or joining a Toastmasters club.
+
+**Overall Assessment**
+
+Overall, the candidate has a strong technical background and has worked on several interesting projects. However, they lack experience in ML engineering and cloud computing, and their communication skills could be improved. With some additional experience and development, they could be a good fit for the Machine Learning Engineer role at ZS.","**Overall Evaluation**
+
+The candidate, Parthvi Mehta, possesses a strong academic background in Computer Science and a diverse range of work experience in software development, computer vision, and machine learning. Her skills and experience align well with the requirements of the Machine Learning Engineer role at LinkedIn.
+
+**Strengths**
+
+* **Strong technical foundation:** Parthvi has a solid understanding of machine learning concepts, algorithms, and programming languages. Her coursework and projects demonstrate her proficiency in deep learning, natural language processing, and computer vision.
+* **Practical experience:** Parthvi's work experience as a Graduate Research Assistant, Computer Vision Intern, and Software Quality Assurance Analyst has provided her with hands-on experience in developing and deploying machine learning models. She has successfully implemented machine learning solutions in various domains, including mosquito surveillance, equipment monitoring, and customer relationship management.
+* **Research and innovation:** Parthvi's research project on single image reflection removal and her publication on social distance monitoring using CNN and image transformation showcase her ability to conduct independent research and contribute to the field of computer vision.
+* **Communication and teamwork:** Parthvi's experience working with data scientists and product managers demonstrates her ability to communicate technical concepts effectively and collaborate on cross-functional projects.
+
+**Weaknesses**
+
+* **Limited experience in recommender systems:** While Parthvi has experience in developing machine learning models, her resume does not specifically mention any work on recommender systems. This is a key requirement for the role at LinkedIn.
+* **Lack of industry experience:** Parthvi's work experience has been primarily in academic and research settings. She may need some time to adjust to the fast-paced environment of a large tech company.
+
+**Areas for Improvement**
+
+* **Gain experience in recommender systems:** Parthvi could consider taking online courses or working on personal projects related to recommender systems to enhance her knowledge and skills in this area.
+* **Build a portfolio of deployed models:** Showcasing a portfolio of deployed machine learning models would demonstrate Parthvi's ability to take projects from conception to production.
+* **Network with industry professionals:** Attending industry events and connecting with professionals in the field of machine learning can help Parthvi expand her knowledge and stay abreast of the latest trends.
+
+**Conclusion**
+
+Overall, Parthvi Mehta is a highly qualified candidate with the potential to succeed in the role of Machine Learning Engineer at LinkedIn. Her strong technical foundation, practical experience, and research contributions make her a valuable asset to any team. With some additional experience in recommender systems and a focus on building a portfolio of deployed models, she can further enhance her candidacy for this role.","**Evaluation of Candidate's Profile for Associate Software Engineer Role**
+
+**Strengths:**
+
+* **Strong technical foundation:** The candidate possesses a solid understanding of programming languages (Python, Java, SQL, C, C++, PHP, HTML, CSS), libraries and frameworks (PyTorch, Tensorflow, Selenium, OpenCV, Pandas, Numpy, Scikit-learn, NLTK), and software tools (SAP, Informatica, AWS, Salesforce Workbench, Android Studio, Automation Anywhere RPA).
+* **Relevant work experience:** The candidate has hands-on experience in software development, quality assurance, and automation, demonstrating their ability to contribute to all phases of the software development life cycle.
+* **Research and development experience:** The candidate has conducted research and developed projects in the areas of computer vision, natural language processing, and machine learning, showcasing their analytical and problem-solving skills.
+* **Communication and presentation skills:** The candidate has experience in presenting their work at conferences and in publications, indicating their ability to effectively communicate technical concepts.
+
+**Weaknesses:**
+
+* **Limited experience in specific software development methodologies:** The candidate's resume does not explicitly mention experience with specific software development methodologies, such as Agile or Scrum.
+* **Lack of certifications:** The candidate does not list any industry-recognized certifications, which could enhance their credibility and demonstrate their commitment to professional development.
+
+**Areas of Improvement:**
+
+* **Highlight software development methodologies:** The candidate should include a section in their resume that outlines their experience with specific software development methodologies, such as Agile or Scrum. This would demonstrate their understanding of industry best practices and their ability to work effectively in team environments.
+* **Obtain industry certifications:** The candidate should consider obtaining industry-recognized certifications, such as the Certified Software Development Professional (CSDP) or the Certified Scrum Master (CSM). This would validate their skills and enhance their credibility as a software engineer.
+* **Quantify accomplishments:** The candidate should provide more specific and quantifiable results in their work experience and project descriptions. For example, instead of stating ""Developed a chatbot for university website,"" they could say ""Developed a chatbot that reduced admission query emails by 70%.""
+
+**Overall Assessment:**
+
+The candidate's profile aligns well with the requirements for the Associate Software Engineer role. They possess a strong technical foundation, relevant work experience, and research and development skills. However, they could enhance their resume by highlighting their experience with software development methodologies and obtaining industry certifications. With these improvements, they would be a strong candidate for this position.","**Evaluation of Candidate Profile**
+
+The candidate's resume demonstrates a strong academic background in computer science and a diverse range of work experience in technical roles. The candidate's skills and experience align well with the requirements of the Data Analyst position.
+
+**Strengths**
+
+* **Strong academic foundation:** The candidate holds a Master's degree in Computer Science from Johns Hopkins University and a Bachelor's degree in Computer Engineering from the University of Mumbai.
+* **Relevant work experience:** The candidate has held various roles in data analysis, software quality assurance, and automation, demonstrating practical experience in data handling, analysis, and reporting.
+* **Technical skills:** The candidate possesses proficiency in Power BI, SQL, Python, and R, which are essential tools for data analysis.
+* **Problem-solving and analytical abilities:** The candidate's work experience highlights their ability to solve problems, analyze data, and identify trends and insights.
+* **Communication skills:** The candidate's resume indicates strong communication skills, which are crucial for presenting findings and collaborating with stakeholders.
+
+**Weaknesses**
+
+* **Limited experience in data visualization:** While the candidate has experience in creating reports and dashboards, their resume does not explicitly mention experience in data visualization best practices.
+* **Lack of certification:** The candidate does not list any certifications in data analysis or related fields, which could strengthen their credibility.
+* **Incomplete project descriptions:** Some of the candidate's project descriptions are brief and lack specific details about the methodologies and results achieved.
+
+**Areas for Improvement**
+
+* **Enhance data visualization skills:** The candidate could consider obtaining additional training or certification in data visualization to demonstrate their proficiency in this area.
+* **Obtain relevant certifications:** Pursuing industry-recognized certifications in data analysis or Power BI would enhance the candidate's credibility and demonstrate their commitment to professional development.
+* **Provide more detailed project descriptions:** Expanding on the project descriptions to include specific methodologies, results, and impact would provide a clearer understanding of the candidate's contributions and abilities.
+
+**Overall Assessment**
+
+The candidate's profile aligns well with the requirements of the Data Analyst position. Their strong academic background, relevant work experience, and technical skills make them a suitable candidate for the role. By addressing the areas for improvement mentioned above, the candidate can further enhance their profile and increase their chances of success in the role.","**Resume Evaluation for Data Scientist Role**
+
+**Candidate Name:** Parthvi Mehta
+
+**Overall Assessment:**
+
+The candidate's resume demonstrates a strong foundation in computer science and data science concepts. Their experience in various roles, including research, software development, and quality assurance, showcases their versatility and technical abilities. However, there are areas where the resume could be improved to better align with the specific requirements of the Data Scientist role.
+
+**Strengths:**
+
+* **Technical Skills:** The candidate possesses a comprehensive skillset in programming languages (Python, Java, SQL, etc.), libraries and frameworks (PyTorch, Tensorflow, Pandas, etc.), and software tools (AWS, Salesforce, etc.).
+* **Research Experience:** The candidate's role as a Graduate Research Assistant at Johns Hopkins University highlights their ability to conduct independent research, develop models, and analyze data.
+* **Project Experience:** The candidate's projects demonstrate their proficiency in image processing, machine learning, and natural language processing.
+* **Communication Skills:** The candidate has experience presenting their work at conferences and collaborating with business users.
+
+**Weaknesses:**
+
+* **Data Science Experience:** While the candidate has some experience in data science, it is primarily focused on image processing and computer vision. The resume lacks specific examples of projects or experience in areas such as data analysis, modeling, or machine learning algorithms.
+* **Cloud Computing:** The job description mentions proficiency in GCP Services, but the resume does not provide any evidence of experience in this area.
+* **Simulation Modeling:** The job description requires experience in simulation modeling using tools like FlexSim and AnyLogic. The candidate's resume does not mention any such experience.
+* **BigQuery:** The job description mentions experience in BigQuery, but the resume does not provide any evidence of this skill.
+
+**Areas for Improvement:**
+
+* **Highlight Data Science Experience:** The candidate should emphasize their data science skills and experience more prominently in the resume. They could include specific examples of projects or coursework where they applied data analysis, modeling, or machine learning techniques.
+* **Acquire Cloud Computing Experience:** If possible, the candidate should gain some experience in GCP Services or other cloud computing platforms. This could be through online courses, certifications, or personal projects.
+* **Develop Simulation Modeling Skills:** The candidate should consider acquiring experience in simulation modeling using tools like FlexSim or AnyLogic. This could be through online courses, workshops, or personal projects.
+* **Quantify Results:** The candidate should provide more quantifiable results in their project descriptions. For example, instead of stating ""Reduced report generation time by 90%,"" they could say ""Developed a model that reduced report generation time from 10 hours to 1 hour.""
+
+**Overall Recommendation:**
+
+While the candidate has a strong technical foundation, their resume could be improved to better align with the specific requirements of the Data Scientist role. By addressing the areas for improvement mentioned above, the candidate can increase their chances of being considered for the position.","**Overall Evaluation:**
+
+The candidate, Parthvi Mehta, possesses a strong academic background in Computer Science and relevant work experience in AI/ML and software development. Their skills and experience align well with the requirements of the AI/ML Data Science Intern role at HP Inc.
+
+**Strengths:**
+
+* **Technical Expertise:** Parthvi has a solid foundation in AI/ML, including experience with Large Language models (LLMs), Natural Language Processing (NLP), and deep learning frameworks such as PyTorch and TensorFlow.
+* **Software Development Skills:** They have experience in software development, including object-oriented programming, data modeling, and visualization.
+* **Data Analysis Proficiency:** Parthvi has strong data analysis skills, including experience with SQL, Pandas, NumPy, and Matplotlib.
+* **Research Experience:** Their work as a Graduate Research Assistant at Johns Hopkins University demonstrates their ability to conduct research and develop innovative solutions.
+* **Communication and Presentation Skills:** Parthvi has good written and oral communication skills, as evidenced by their presentations and publications.
+
+**Weaknesses:**
+
+* **Marketing Knowledge:** While Parthvi's resume highlights their technical skills, it lacks specific examples of their knowledge of marketing principles, practices, and tools.
+* **Industry Experience:** The candidate's work experience is primarily in software development and research, with limited exposure to the marketing industry.
+* **Recent Projects:** The resume does not include any recent projects or contributions that demonstrate their current skills and knowledge.
+
+**Areas of Improvement:**
+
+* **Highlight Marketing Knowledge:** Parthvi should consider adding coursework or certifications in marketing to their resume to demonstrate their understanding of the field.
+* **Showcase Industry Experience:** If possible, they could seek opportunities to gain experience in marketing, such as internships or volunteer work.
+* **Update Projects:** Adding recent projects that showcase their AI/ML and data science skills would strengthen their application.
+
+**Recommendation:**
+
+Based on their strong technical skills and academic background, Parthvi Mehta is a suitable candidate for the AI/ML Data Science Intern role at HP Inc. However, to enhance their competitiveness, they should consider addressing the areas of improvement mentioned above.","**Overall Assessment:**
+
+The candidate, Parthvi Mehta, possesses a strong academic background in Computer Science and a diverse range of technical skills. Their resume highlights a combination of work experience, projects, and coursework that aligns well with the requirements of the Slack Bot Automation Intern role.
+
+**Strengths:**
+
+* **Technical Skills:** Parthvi has a solid foundation in programming languages such as Python and Javascript, which are essential for developing the Slack bot.
+* **Project Experience:** Their work on developing a Slack bot for answering support inquiries demonstrates their ability to apply technical skills to solve real-world problems.
+* **Research Experience:** Parthvi's involvement in research projects, such as developing a mosquito surveillance system and a reflection removal technique, showcases their analytical and problem-solving abilities.
+* **Communication Skills:** The candidate's resume is well-written and effectively communicates their qualifications and experience.
+
+**Weaknesses:**
+
+* **Lack of Linux Experience:** The job description specifically mentions Linux experience as a requirement, which is not explicitly stated on Parthvi's resume.
+* **Limited Experience with CI/CD:** While the candidate mentions using Github Actions, their experience with CI/CD may need to be further explored.
+* **No Certifications or Achievements:** The resume does not include any certifications or achievements that could enhance their credibility.
+
+**Areas of Improvement:**
+
+* **Highlight Linux Experience:** If Parthvi has any relevant Linux experience, it would be beneficial to include it on their resume.
+* **Quantify Results:** The candidate's project descriptions could be improved by including specific metrics or quantifiable results to demonstrate the impact of their work.
+* **Obtain Certifications:** Pursuing industry-recognized certifications in areas such as Python or AWS could enhance their technical credibility.
+
+**Recommendation:**
+
+Based on the candidate's overall qualifications and the specific requirements of the role, Parthvi Mehta is a suitable candidate for the Slack Bot Automation Intern position. Their technical skills, project experience, and communication abilities align well with the job requirements. However, it is recommended that the hiring manager further assess their Linux experience and CI/CD knowledge during the interview process.","**Evaluation of Candidate Profile**
+
+The candidate, Parthvi Mehta, has a strong academic background in computer science and a diverse work experience in software development, quality assurance, and research. Let's evaluate their profile against the requirements of the Machine Learning Engineer Intern position at Intuitive, Inc.:
+
+**Strengths:**
+
+* **Technical Skills:** Parthvi possesses a wide range of technical skills, including proficiency in Python, PyTorch, Docker, and CI/CD pipelines. These skills are essential for a Machine Learning Engineer.
+* **Machine Learning Experience:** Parthvi has hands-on experience in the full life cycle of Machine Learning, including model development, deployment, and evaluation. They have worked on projects involving object detection, image processing, and natural language processing.
+* **Research Experience:** As a Graduate Research Assistant at Johns Hopkins University, Parthvi developed a low-cost mosquito surveillance system using computer vision techniques. This experience demonstrates their ability to apply Machine Learning to real-world problems.
+* **Communication Skills:** Parthvi has excellent communication skills, as evidenced by their role as a content creator and event organizer for Machine Learning knowledge-sharing.
+
+**Weaknesses:**
+
+* **Cloud Technologies:** While Parthvi has experience in Docker and CI/CD pipelines, they do not have specific experience in cloud technologies such as AWS or Azure. This is a preferred qualification for the role.
+* **Data Engineering Technologies:** Parthvi does not have experience in data engineering technologies such as Hadoop or Spark. This is also a preferred qualification for the role.
+* **API Development:** Parthvi has experience in API development, but it is not clear if they have experience with FHIR APIs, which is a requirement for the role.
+
+**Areas of Improvement:**
+
+* **Cloud Technologies:** Parthvi should consider gaining experience in cloud technologies such as AWS or Azure. This can be done through online courses, tutorials, or personal projects.
+* **Data Engineering Technologies:** Parthvi should consider gaining experience in data engineering technologies such as Hadoop or Spark. This can be done through online courses, tutorials, or personal projects.
+* **FHIR APIs:** Parthvi should gain experience with FHIR APIs. This can be done through online courses, tutorials, or personal projects.
+
+**Overall Assessment:**
+
+Parthvi Mehta is a highly qualified candidate with a strong technical background and experience in Machine Learning. While they do not have experience in all of the preferred qualifications, their skills and experience make them a suitable candidate for the Machine Learning Engineer Intern position at Intuitive, Inc. With some additional training in cloud technologies, data engineering technologies, and FHIR APIs, they would be a valuable asset to the team.","**Candidate Profile Evaluation**
+
+**Job Description:** Data Engineering & Analytics Content Academic Year Internship
+
+**Candidate Resume:** Parthvi Mehta
+
+**Strengths:**
+
+* **Strong technical skills:** Proficient in various programming languages (Python, Java, SQL, etc.), libraries (PyTorch, TensorFlow, Pandas, etc.), and software tools (SAP, Informatica, AWS, etc.).
+* **Relevant work experience:** Experience as a Graduate Research Assistant, Computer Vision Intern, Software Quality Assurance Analyst, and Automation Intern, demonstrating hands-on experience in data analysis, machine learning, and software development.
+* **Academic qualifications:** Pursuing a Master's degree in Computer Science from Johns Hopkins University, with a strong foundation in databases, artificial intelligence, and data science.
+* **Project experience:** Developed several projects in image processing, natural language processing, and machine learning, showcasing practical implementation of technical skills.
+
+**Weaknesses:**
+
+* **Limited experience in data engineering:** While the candidate has experience in data analysis and machine learning, their resume does not explicitly mention direct experience in data engineering.
+* **Lack of cloud certifications:** The job description requires experience in cloud environments, but the candidate's resume does not mention any relevant certifications.
+
+**Areas of Improvement:**
+
+* **Highlight data engineering skills:** The candidate should emphasize their experience in data engineering tasks, such as data integration, data transformation, and data warehousing.
+* **Obtain cloud certifications:** To strengthen their application, the candidate should consider obtaining certifications in cloud platforms such as AWS, GCP, or Azure.
+* **Quantify results:** The candidate should provide specific metrics and quantifiable results to demonstrate the impact of their work in previous roles.
+
+**Overall Assessment:**
+
+Parthvi Mehta's technical skills and academic qualifications align well with the requirements of the Data Engineering & Analytics Content Academic Year Internship. However, they could improve their application by highlighting their data engineering experience and obtaining relevant cloud certifications. With these improvements, they would be a strong candidate for the role."
